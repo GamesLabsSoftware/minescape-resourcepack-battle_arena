@@ -1,0 +1,6 @@
+{
+  "parent": "item/menu/icon",
+  "textures": {
+      "layer0": "menu/bow"
+  }
+}

@@ -1,0 +1,689 @@
+{
+	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"soldier_broadsword_atlas": "swords/soldier_broadsword"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels",
+			"from": [ 5.3878, 3.7551, 7.8367 ],
+			"to": [ 10.61229, 4.081631, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4, 15, 8, 15.25 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 4, 16, 8, 15.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 8, 15.5, 4, 15.75 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 4, 15.25, 8, 15.5 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2, 0.75, 2.25, 1 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.25, 1, 2, 1.25 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.551, 3.5918, 7.8367 ],
+			"to": [ 10.44896, 3.755065, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4, 14.75, 7.75, 15 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 4, 14.75, 7.75, 14.5 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 7.75, 14.25, 4, 14.375 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 4, 14.375, 7.75, 14.5 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 1.5, 2.5, 1.625 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 1.625, 2.25, 1.75 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.551, 4.0816, 7.8367 ],
+			"to": [ 5.87753, 4.244865, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 2, 1.25, 2.25, 1.5 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 1.75, 0.875, 2, 0.625 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2.5, 1.75, 2.25, 1.875 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.25, 1.875, 2.5, 2 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 3.5, 2.5, 3.625 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 2.5, 2.25, 2.625 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 3.7551, 7.6735 ],
+			"to": [ 9.795937, 3.918365, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 15.625, 12.25, 15.75 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 9.5, 15.625, 12.25, 15.5 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 12.25, 15.375, 9.5, 15.5 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 9.5, 15.25, 12.25, 15.375 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 13.875, 15.25, 14, 15.375 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 14.125, 15.375, 14, 15.5 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 3.7551, 8.1633 ],
+			"to": [ 9.795937, 3.918365, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 15.125, 12.25, 15.25 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 9.5, 15.875, 12.25, 15.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 12.25, 15, 9.5, 15.125 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 9.5, 15.875, 12.25, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 13.875, 15.375, 14, 15.5 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 0, 2.375, 0.125 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 3.9184, 7.6735 ],
+			"to": [ 6.693895, 4.081665, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 15.625, 14.875, 16, 15 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 15.625, 14.875, 16, 14.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 16, 14.625, 15.625, 14.75 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 15.625, 14.5, 16, 14.625 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 0, 2.375, 0.125 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 14.125, 15, 14, 15.125 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 3.9184, 8.1633 ],
+			"to": [ 6.693895, 4.081665, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 2.875, 2.875, 3 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.5, 2.875, 2.875, 2.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2.875, 0.75, 2.5, 0.875 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 2.625, 2.875, 2.75 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 15.875, 15, 16, 15.125 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 3, 2.25, 2.875, 2.375 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 3.5918, 7.6735 ],
+			"to": [ 9.142815, 3.755065, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 14.125, 15.75, 15.875, 15.875 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 14.125, 15.75, 15.875, 15.625 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 15.875, 15.5, 14.125, 15.625 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 14.125, 15, 15.875, 15.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 15.875, 15.25, 16, 15.375 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 16, 15.375, 15.875, 15.5 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 3.5918, 8.1633 ],
+			"to": [ 9.142815, 3.755065, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 14.125, 15.25, 15.875, 15.375 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 14.125, 15.5, 15.875, 15.375 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 15.875, 15.875, 14.125, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 14.125, 15.125, 15.875, 15.25 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 14, 14.25, 14.125, 14.375 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 14, 14.25, 13.875, 14.375 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 3.9184, 7.6735 ],
+			"to": [ 8.979584, 4.081665, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3, 14.125, 4.5, 14.25 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 4.5, 14.25, 6, 14.125 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 7.5, 14.125, 6, 14.25 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 7.5, 14.125, 9, 14.25 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 15.875, 15.125, 16, 15.25 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 14, 14.375, 13.875, 14.5 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 3.9184, 8.1633 ],
+			"to": [ 8.979584, 4.081665, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 9, 14.125, 10.5, 14.25 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 10.5, 14.25, 12, 14.125 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 13.5, 14.125, 12, 14.25 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 13.5, 14.125, 15, 14.25 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 14, 14.5, 14.125, 14.625 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 14, 14.5, 13.875, 14.625 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, -0.4898, 7.8367 ],
+			"to": [ 8.653023, -4.053116E-06, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 1, 0.25 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 13.125, 15.75, 14.125, 15.5 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2, 0.25, 1, 0.625 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 0, 0.25, 1, 0.625 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 1.75, 1.25, 2, 1.625 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2, 0.875, 1.75, 1.25 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, -0.3265, 7.6735 ],
+			"to": [ 8.653023, -0.1632347, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 7.25, 13.875, 8.25, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 8.25, 14.125, 9.25, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 7.25, 13.875, 6.25, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 7.25, 14, 8.25, 14.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 14, 14.625, 14.125, 14.75 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 14, 14.625, 13.875, 14.75 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, -0.3265, 8.1633 ],
+			"to": [ 8.653023, -0.1632347, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 15, 14.125, 16, 14.25 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 5.25, 14.125, 6.25, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 6.25, 13.875, 5.25, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 6.25, 14, 7.25, 14.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.875, 2.375, 3, 2.5 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 3, 2.5, 2.875, 2.625 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 4.5714, 7.8367 ],
+			"to": [ 8.653023, 15.51017, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 1, 0, 2, 0.25 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 13.125, 16, 14.125, 15.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 1, 7.625, 0, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 1, 7.625, 2, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2, 7.625, 2.25, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 7.625, 2.25, 16 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, -0.6531, 7.6735 ],
+			"to": [ 8.489792, -0.3265693, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 13.875, 13, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 13, 14.125, 13.75, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 13.875, 14.5, 13.125, 14.75 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 13.125, 14.25, 13.875, 14.5 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.375, 2, 2.5, 2.25 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.375, 2, 2.25, 2.25 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, -0.6531, 7.8367 ],
+			"to": [ 8.489792, -0.4898347, 8.326496 ],
+			"faces": {
+				"down": { "uv": [ 11, 14.625, 11.75, 15 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 11, 14.625, 11.75, 14.25 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 13.75, 13.875, 13, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 13.75, 14, 14.5, 14.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.5, 2.5, 2.875, 2.625 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.875, 0.875, 2.5, 1 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, -0.4898, 8.1633 ],
+			"to": [ 8.489792, -0.3265347, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 14, 15.25, 14.125 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 14.5, 14, 15.25, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 16, 14, 15.25, 14.125 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 15.25, 13.875, 16, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.875, 2.875, 3, 3 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 14.125, 14.375, 14, 14.5 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, -0.1633, 7.6735 ],
+			"to": [ 8.489792, 0.1632306, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3, 13.75, 3.75, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 3.75, 13.875, 4.5, 13.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 3.75, 13.875, 3, 14.125 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 14.875, 14.75, 15.625, 15 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 7.875, 14.5, 8, 14.75 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 7.875, 14.5, 7.75, 14.75 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, -0.1633, 8.1633 ],
+			"to": [ 8.489792, 0.1632306, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 13.75, 5.25, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 6.75, 13.875, 7.5, 13.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 14.875, 14.25, 14.125, 14.5 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 13.125, 14.75, 13.875, 15 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 7.875, 14.75, 8, 15 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 7.875, 14.75, 7.75, 15 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 0, 7.8367 ],
+			"to": [ 8.489792, 0.1632653, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 13.875, 5.25, 14.125 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 3.75, 14.125, 4.5, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 6, 13.75, 5.25, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 6, 13.75, 6.75, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 0.625, 2.5, 0.75 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 0.75, 2.25, 0.875 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 1.3061, 7.8367 ],
+			"to": [ 8.489792, 3.591814, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 14.875, 14.5, 15.625, 14.75 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 14.875, 14.5, 15.625, 14.25 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 3.25, 14.25, 2.5, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 3.25, 14.25, 4, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 0.75, 2.375, 1, 4.125 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 1, 0.625, 0.75, 2.375 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 3.4286, 7.6735 ],
+			"to": [ 8.489792, 3.591865, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 13.875, 9, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 9.25, 14.125, 10, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 10, 13.875, 9.25, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 10, 14, 10.75, 14.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 14, 14.875, 14.125, 15 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 14, 14.875, 13.875, 15 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 3.4286, 8.1633 ],
+			"to": [ 8.489792, 3.591865, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 10.75, 13.875, 11.5, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 11.5, 14.125, 12.25, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 12.25, 13.875, 11.5, 14 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 12.25, 14, 13, 14.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 13.875, 15, 14, 15.125 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 14.125, 15.125, 14, 15.25 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 4.0816, 7.8367 ],
+			"to": [ 8.489792, 4.571396, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 13.125, 15.25, 13.875, 15.5 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 13.125, 15.25, 13.875, 15 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 11, 14.25, 10.25, 14.625 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 9.5, 14.625, 10.25, 15 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2, 4.875, 2.25, 5.25 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.25, 4.5, 2, 4.875 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 4.5714, 7.6735 ],
+			"to": [ 8.489792, 9.142828, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 13.75, 8.25, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 13.75, 14, 14.5, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 1.75, 0.625, 1, 4.125 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 1, 4.125, 1.75, 7.625 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 1.875, 4.125, 2, 7.625 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 1.875, 4.125, 1.75, 7.625 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 4.5714, 8.1633 ],
+			"to": [ 8.489792, 9.142828, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 10.75, 14, 11.5, 14.125 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 10, 14, 10.75, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 0.75, 4.125, 0, 7.625 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 0, 0.625, 0.75, 4.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 0.75, 4.125, 0.875, 7.625 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 1, 4.125, 0.875, 7.625 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 9.1429, 8.1633 ],
+			"to": [ 8.326527, 9.306165, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 12, 13.75, 12.625, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 11.375, 13.875, 12, 13.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 13.25, 13.75, 12.625, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 9.5, 13.75, 10.125, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.875, 2.75, 3, 2.875 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 3, 2.625, 2.875, 2.75 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 15.5102, 7.8367 ],
+			"to": [ 8.489792, 16, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 14.125, 14.5, 14.875, 14.75 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 14.125, 15, 14.875, 14.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 11, 14.625, 10.25, 15 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 9.5, 14.25, 10.25, 14.625 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2, 5.25, 2.25, 5.625 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.25, 5.625, 2, 6 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, -0.8163, 7.6735 ],
+			"to": [ 8.326561, -0.6530347, 8.326561 ],
+			"faces": {
+				"down": { "uv": [ 12.625, 15.5, 13.125, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 11.75, 15, 12.25, 14.5 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 3, 5, 2.5, 5.125 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 4.625, 3, 4.75 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.5, 4.5, 3, 4.625 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 3, 3.75, 2.5, 3.875 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 0.1633, 7.6735 ],
+			"to": [ 8.326561, 3.428606, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 3.375, 3, 3.5 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.5, 3.375, 3, 3.25 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 3, 9.25, 2.5, 11.75 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 11.75, 3, 14.25 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 1.875, 1.625, 2, 4.125 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 1.875, 1.625, 1.75, 4.125 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 0.1633, 7.8367 ],
+			"to": [ 8.326561, 1.306157, 8.326496 ],
+			"faces": {
+				"down": { "uv": [ 12.625, 15.125, 13.125, 15.5 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 12.625, 15.125, 13.125, 14.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 9.5, 14.25, 9, 15.125 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 9, 15.125, 9.5, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 12.25, 15.125, 12.625, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 12.625, 14.25, 12.25, 15.125 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 1.3061, 8.1633 ],
+			"to": [ 8.326561, 3.428549, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 4.25, 3, 4.375 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.5, 4, 3, 3.875 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 9, 14.375, 8.5, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 8, 14.375, 8.5, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2, 6, 2.125, 7.625 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.25, 6, 2.125, 7.625 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 3.5918, 7.5102 ],
+			"to": [ 8.326561, 3.918331, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 4.125, 3, 4.25 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.5, 4.125, 3, 4 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 12.25, 14.25, 11.75, 14.5 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 7.875, 3, 8.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 0.125, 2.375, 0.375 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 0.125, 2.375, 0.375 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 3.5918, 8.3265 ],
+			"to": [ 8.326561, 3.918331, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 3.625, 3, 3.75 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.5, 3.625, 3, 3.5 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 3, 7.625, 2.5, 7.875 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 7.375, 3, 7.625 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 7.75, 14.25, 7.875, 14.5 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 8, 14.25, 7.875, 14.5 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 4.0816, 7.6735 ],
+			"to": [ 8.326561, 4.571396, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 14.25, 9, 14.375 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.5, 4.5, 3, 4.375 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 13.125, 14.375, 12.625, 14.75 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 8.875, 3, 9.25 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 5.125, 2.375, 5.5 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 5.125, 2.375, 5.5 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 4.0816, 8.1633 ],
+			"to": [ 8.326561, 4.571396, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 8, 14.25, 8.5, 14.375 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 12.625, 14.375, 13.125, 14.25 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 3, 8.5, 2.5, 8.875 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 8.125, 3, 8.5 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 3.625, 2.375, 4 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 3.625, 2.375, 4 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 9.1429, 7.6735 ],
+			"to": [ 8.489826, 9.306165, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 10.75, 13.75, 11.375, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 8.875, 13.875, 9.5, 13.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 8.875, 13.75, 8.25, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 10.125, 13.75, 10.75, 13.875 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 15.875, 15.875, 16, 16 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 16, 15.75, 15.875, 15.875 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 9.3061, 7.6735 ],
+			"to": [ 8.326561, 9.63263, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 5.25, 3, 5.375 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.5, 5.25, 3, 5.125 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 3, 7.125, 2.5, 7.375 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 6.875, 3, 7.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 1.125, 2.375, 1.375 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 1.125, 2.375, 1.375 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 9.3061, 8.1633 ],
+			"to": [ 8.326561, 9.63263, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 4.875, 3, 5 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.5, 4.875, 3, 4.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 3, 6.625, 2.5, 6.875 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 6.375, 3, 6.625 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 2.875, 2.375, 3.125 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 2.875, 2.375, 3.125 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 9.6327, 8.1633 ],
+			"to": [ 8.163296, 9.795965, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 2.375, 2.875, 2.5 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.5, 2.375, 2.875, 2.25 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2.875, 2.125, 2.5, 2.25 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 2, 2.875, 2.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 14, 15.25, 14.125, 15.375 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 14, 15.125, 13.875, 15.25 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 16, 7.8367 ],
+			"to": [ 8.326561, 16.32653, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 6.125, 3, 6.375 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.5, 6.125, 3, 5.875 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 3, 5.625, 2.5, 5.875 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 5.375, 3, 5.625 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2, 0.5, 2.25, 0.75 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.25, 0.25, 2, 0.5 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, -0.4898, 7.5102 ],
+			"to": [ 8.163231, -4.053116E-06, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 2.25, 2.375, 2.5, 2.5 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.25, 1.125, 2.5, 1 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2.25, 4.125, 2, 4.5 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2, 3.75, 2.25, 4.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 5.5, 2.375, 5.875 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 5.5, 2.375, 5.875 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, -0.4898, 8.3265 ],
+			"to": [ 8.163231, -4.053116E-06, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 2.25, 0.5, 2.5, 0.625 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.25, 0.5, 2.5, 0.375 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2.25, 3.375, 2, 3.75 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2, 3, 2.25, 3.375 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 4.75, 2.375, 5.125 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 4.75, 2.375, 5.125 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 9.6327, 7.6735 ],
+			"to": [ 8.326496, 9.795965, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 15.625, 14.375, 16, 14.5 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 15.625, 14.375, 16, 14.25 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2.875, 3.125, 2.5, 3.25 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 3, 2.875, 3.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 13.875, 14.75, 14, 14.875 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 14.125, 14.75, 14, 14.875 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 9.795899, 7.6735 ],
+			"to": [ 8.163231, 10.2857, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 2.25, 3.125, 2.5, 3.25 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.25, 2.875, 2.5, 2.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2.25, 2.625, 2, 3 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2, 2.25, 2.25, 2.625 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 4.375, 2.375, 4.75 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 4.375, 2.375, 4.75 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 9.795899, 8.1633 ],
+			"to": [ 8.163231, 10.2857, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 2.25, 2.625, 2.5, 2.75 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.25, 2.375, 2.5, 2.25 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2.25, 1.875, 2, 2.25 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2, 1.5, 2.25, 1.875 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 4, 2.375, 4.375 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 4, 2.375, 4.375 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 16.3265, 7.8367 ],
+			"to": [ 8.163231, 16.65303, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 2, 0, 2.25, 0.25 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.25, 7.625, 2.5, 7.375 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2.5, 7.125, 2.25, 7.375 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.25, 6.875, 2.5, 7.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 6.625, 2.5, 6.875 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 6.375, 2.25, 6.625 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.3061, 3.9184, 7.6735 ],
+			"to": [ 9.795896, 4.081665, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 1.875, 2.875, 2 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.5, 1.875, 2.875, 1.75 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2.875, 1.625, 2.5, 1.75 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 1.5, 2.875, 1.625 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 15.875, 15.625, 16, 15.75 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 16, 15.5, 15.875, 15.625 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.3061, 3.9184, 8.1633 ],
+			"to": [ 9.795896, 4.081665, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 1.375, 2.875, 1.5 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.5, 1.375, 2.875, 1.25 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2.875, 1.125, 2.5, 1.25 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.5, 1, 2.875, 1.125 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.875, 3.125, 3, 3.25 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 3, 3, 2.875, 3.125 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 4.0816, 7.8367 ],
+			"to": [ 10.44893, 4.244865, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 2.25, 6.125, 2.5, 6.375 ], "texture": "#soldier_broadsword_atlas" },
+				"up": { "uv": [ 2.25, 6.125, 2.5, 5.875 ], "texture": "#soldier_broadsword_atlas" },
+				"north": { "uv": [ 2.5, 0.875, 2.25, 1 ], "texture": "#soldier_broadsword_atlas" },
+				"south": { "uv": [ 2.25, 3.375, 2.5, 3.5 ], "texture": "#soldier_broadsword_atlas" },
+				"west": { "uv": [ 2.25, 3.25, 2.5, 3.375 ], "texture": "#soldier_broadsword_atlas" },
+				"east": { "uv": [ 2.5, 1.375, 2.25, 1.5 ], "texture": "#soldier_broadsword_atlas" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ 0, 6.2608, 1.3913 ],
+			"scale":  [ 1.2, 1.2, 1.2 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ 0, 5.5652, 0 ]
+		},
+		"gui": {
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"ground": {
+			"translation":  [ 0, 7.6521, 0 ],
+			"scale":  [ 1.2, 1.2, 1.2 ]
+		}
+	}
+}

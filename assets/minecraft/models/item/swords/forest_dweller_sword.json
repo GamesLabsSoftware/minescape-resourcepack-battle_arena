@@ -1,0 +1,2718 @@
+{
+	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"forest_dweller_sword_atlas": "swords/forest_dweller_sword"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels",
+			"from": [ 5.8776, 4.5714, 7.8367 ],
+			"to": [ 6.693926, 5.061195, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 2.75, 4.125, 3 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 3.5, 3.875, 4.125, 3.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.125, 7.375, 3.5, 7.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3.5, 8.5, 4.125, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 14.5, 14.125, 14.75, 14.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 13.25, 14.125, 13, 14.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.0408, 3.9184, 7.6735 ],
+			"to": [ 6.857126, 4.081665, 8.163296 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 7.75, 4.125, 8.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 3.5, 8.5, 4.125, 8.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.25, 0, 3.625, 0.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 11.75, 10, 12.375, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 12.75, 9.375, 13.125, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 13.5, 9.375, 13.125, 9.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.0408, 4.0816, 7.6735 ],
+			"to": [ 6.693861, 4.244865, 8.326561 ],
+			"faces": {
+				"down": { "uv": [ 3, 4.375, 3.5, 4.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 3, 4.375, 3.5, 3.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 7.125, 2.5, 7.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 15.5, 11.75, 16, 11.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 15.5, 10.75, 16, 10.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 16, 10.125, 15.5, 10.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.0408, 4.2449, 7.6735 ],
+			"to": [ 6.530596, 4.897961, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 9.375, 13.875, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13.875, 9.5, 14.25, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3.875, 6.125, 3.5, 6.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3.875, 4.625, 4.25, 5.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.5, 3.875, 5.625, 4.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.75, 3.875, 5.625, 4.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.0408, 4.2449, 7.8367 ],
+			"to": [ 6.530596, 4.57143, 8.326496 ],
+			"faces": {
+				"down": { "uv": [ 3.625, 0.375, 4, 0.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 3.625, 1.125, 4, 0.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5, 0.625, 4.625, 0.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5, 0.625, 5.375, 0.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.625, 0.375, 5, 0.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.375, 0.375, 5, 0.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.0408, 4.5714, 8.1633 ],
+			"to": [ 6.693861, 4.89793, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 15.5, 9.875, 16, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 9.75, 6.875, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.875, 10.25, 4.375, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.875, 10.25, 5.375, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 4.125, 6.875, 4.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 3.875, 6.75, 4.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 3.7551, 7.6735 ],
+			"to": [ 9.795937, 3.918365, 8.326561 ],
+			"faces": {
+				"down": { "uv": [ 4.75, 15.5, 7.5, 16 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 7.5, 16, 10.25, 15.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7.5, 15.125, 4.75, 15.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 7.5, 15.125, 10.25, 15.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 9.625, 7.375, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7.875, 9.625, 7.375, 9.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 3.9184, 7.5102 ],
+			"to": [ 6.857161, 4.081665, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 7.875, 9.625, 8.375, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8.375, 9.75, 8.875, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 9.375, 9.625, 8.875, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 9.375, 9.625, 9.875, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 0.5, 7, 0.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 0.625, 6.875, 0.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 3.9184, 8.1633 ],
+			"to": [ 6.857161, 4.081665, 8.48983 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 9.5, 5.375, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 9.375, 4.875, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 10.375, 9.625, 9.875, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 10.375, 9.625, 10.875, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 10.875, 9, 11.125, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 11.375, 9, 11.125, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 4.0816, 7.5102 ],
+			"to": [ 6.53063, 4.734661, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 4, 1.125, 4.25, 1.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.5, 0.125, 5.75, 0 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 4.625, 2.75, 5.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2.75, 4.125, 3, 4.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.5, 3.375, 5.625, 3.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.75, 3.375, 5.625, 3.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 4.0816, 8.3265 ],
+			"to": [ 6.53063, 4.734661, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 15.75, 9.75, 16, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6, 0.875, 6.25, 0.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 3.625, 2.75, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2.75, 0, 3, 0.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.5, 2.875, 5.625, 3.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.75, 2.875, 5.625, 3.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 4.898, 7.6735 ],
+			"to": [ 7.183692, 5.061265, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 12.125, 10.5, 12.875, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 12.875, 10.625, 13.625, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 14.375, 10.5, 13.625, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 14.375, 10.5, 15.125, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 0.75, 7, 0.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 0.875, 6.875, 1 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 4.898, 8.1633 ],
+			"to": [ 7.183692, 5.061265, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 15.125, 10.5, 15.875, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.25, 10.5, 7, 10.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7, 10.25, 6.25, 10.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 7, 10.375, 7.75, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 1.25, 7, 1.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 1.375, 6.875, 1.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.3673, 3.5918, 7.6735 ],
+			"to": [ 9.632607, 3.755065, 8.326561 ],
+			"faces": {
+				"down": { "uv": [ 10.25, 15.5, 12.75, 16 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 12.75, 16, 15.25, 15.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 12.75, 15.125, 10.25, 15.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 11, 12, 13.5, 12.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 11.375, 9.625, 11.875, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.25, 8.375, 5.75, 8.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.3673, 3.7551, 7.5102 ],
+			"to": [ 7.020361, 3.918365, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 11.875, 9.625, 12.375, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 12.375, 9.75, 12.875, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 13.375, 9.625, 12.875, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.75, 4.625, 6.25, 4.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 2, 7, 2.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 2.125, 6.875, 2.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.3673, 3.7551, 8.3265 ],
+			"to": [ 7.020361, 3.918365, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 13.375, 9.625, 13.875, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13.875, 9.75, 14.375, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 14.875, 9.625, 14.375, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 14.875, 9.625, 15.375, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 2.25, 7, 2.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 2.375, 6.875, 2.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.3673, 5.0612, 7.8367 ],
+			"to": [ 9.632607, 5.224465, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 6, 12, 8.5, 12.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8, 12.25, 10.5, 12.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6, 12, 3.5, 12.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 8.5, 12, 11, 12.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 3.5, 7, 3.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 3.625, 6.875, 3.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.3673, 5.0612, 8 ],
+			"to": [ 7.183627, 5.224465, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 13.25, 9.75, 13.875, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13.875, 9.875, 14.5, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 15.125, 9.75, 14.5, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 15.125, 9.75, 15.75, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 4.25, 7, 4.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 4.375, 6.875, 4.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, 3.4286, 7.6735 ],
+			"to": [ 9.469376, 3.591865, 8.326561 ],
+			"faces": {
+				"down": { "uv": [ 5.5, 14.625, 7.75, 15.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.5, 14.625, 7.75, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 12.625, 11.875, 10.375, 12 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.875, 11.875, 8.125, 12 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 15.375, 9.625, 15.875, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.25, 9.5, 5.75, 9.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, 3.5918, 7.5102 ],
+			"to": [ 9.469376, 3.755065, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 8.125, 11.875, 10.375, 12 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.5, 11.875, 8.75, 11.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 13.25, 11.75, 11, 11.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 13.25, 11.75, 15.5, 11.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 5, 7, 5.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 5.125, 6.875, 5.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, 3.5918, 8.3265 ],
+			"to": [ 9.469376, 3.755065, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 8.75, 11.75, 11, 11.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.5, 11.75, 8.75, 11.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.5, 11.75, 4.25, 11.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 12.625, 11.875, 14.875, 12 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 5.25, 7, 5.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 5.375, 6.875, 5.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, 4.5714, 7.6735 ],
+			"to": [ 6.693865, 4.89793, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 6, 7, 6.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.875, 6.25, 7, 6.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 16, 12.375, 15.875, 12.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.125, 3.625, 4.25, 3.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.125, 2.75, 4.25, 3 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.25, 2.5, 4.125, 2.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 3.2653, 7.6735 ],
+			"to": [ 9.306145, 3.428565, 8.326561 ],
+			"faces": {
+				"down": { "uv": [ 7.75, 14.625, 9.75, 15.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 7.75, 14.625, 9.75, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 12.25, 11.375, 10.25, 11.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 12.25, 11.375, 14.25, 11.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.75, 9.375, 6.25, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.25, 9.25, 5.75, 9.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 3.4286, 7.5102 ],
+			"to": [ 9.306145, 3.591865, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 11.375, 10.25, 11.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.25, 11.375, 12.25, 11.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 12.25, 11.125, 10.25, 11.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.25, 11.375, 8.25, 11.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 6.5, 7, 6.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 6.625, 6.875, 6.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 3.4286, 8.3265 ],
+			"to": [ 9.306145, 3.591865, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 4.25, 11.375, 6.25, 11.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 12.875, 11.625, 14.875, 11.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 14.875, 11.625, 12.875, 11.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 10.875, 11.5, 12.875, 11.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 15.375, 9, 15.5, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 15.375, 9, 15.25, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 4.0816, 7.8367 ],
+			"to": [ 9.959206, 4.244865, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 10.25, 15.25, 12.75, 15.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 12.75, 15.5, 15.25, 15.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 15.25, 15.125, 12.75, 15.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 8, 12.25, 10.5, 12.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 15.75, 9.25, 16, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.625, 8.5, 6.375, 8.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 4.2449, 7.8367 ],
+			"to": [ 9.306145, 4.408165, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 5, 13.125, 7, 13.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 3, 13.375, 5, 13.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 10.75, 11.5, 8.75, 11.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 10.875, 11.625, 12.875, 11.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.375, 8.375, 6.625, 8.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.625, 8.25, 6.375, 8.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 4.7347, 7.6735 ],
+			"to": [ 7.346961, 4.897965, 8.326561 ],
+			"faces": {
+				"down": { "uv": [ 0.75, 10.125, 1.25, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 0.75, 8.25, 1.25, 7.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.25, 9.125, 5.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.75, 9, 6.25, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.75, 8.875, 6.25, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.25, 8.75, 5.75, 8.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 4.898, 7.8367 ],
+			"to": [ 10.12247, 5.061265, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 15.25, 10.125, 15.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.75, 15.5, 7.375, 15.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7.125, 12.5, 4.5, 12.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.5, 12.375, 7.125, 12.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.375, 8.125, 6.625, 8.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.625, 8, 6.375, 8.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 5.0612, 7.6735 ],
+			"to": [ 7.02043, 5.224465, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 7.875, 6.625, 8 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 7.875, 6.625, 7.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.625, 7.625, 6.375, 7.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.375, 7.5, 6.625, 7.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 15.125, 9, 15.25, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 15.125, 9, 15, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 5.0612, 8.1633 ],
+			"to": [ 7.02043, 5.224465, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 7.375, 6.625, 7.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 7.375, 6.625, 7.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.625, 7.125, 6.375, 7.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.375, 7, 6.625, 7.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 14.875, 9, 15, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 14.875, 9, 14.75, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, -1.6327, 7.6735 ],
+			"to": [ 8.326488, -1.306169, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 14.875, 11.875, 16, 12 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.75, 10.75, 7.875, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.5, 11.5, 5.375, 11.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.25, 11.5, 5.375, 11.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 15.875, 11.5, 16, 11.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 3.5, 6.25, 3.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, -1.6327, 7.8367 ],
+			"to": [ 7.346896, -1.469435, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 7.125, 9.25, 7.5, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.75, 9.375, 7.125, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.75, 8.625, 6.375, 8.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.375, 8.75, 6.75, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 14.625, 9, 14.75, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 14.625, 9, 14.5, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 3.102, 7.8367 ],
+			"to": [ 9.142815, 3.265265, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 7, 13.125, 8.75, 13.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.5, 13.125, 8.25, 12.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 16, 11.25, 14.25, 11.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 14.25, 11.375, 16, 11.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.375, 6.875, 6.625, 7 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.625, 6.75, 6.375, 6.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 3.2653, 7.5102 ],
+			"to": [ 7.836692, 3.428565, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 10, 10.375, 10.75, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 9.25, 10.375, 10, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 10, 10.375, 9.25, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 8.5, 10.25, 9.25, 10.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 14.375, 9, 14.5, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 14.375, 9, 14.25, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 3.2653, 8.3265 ],
+			"to": [ 7.836692, 3.428565, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 10.375, 9.25, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 7.75, 10.375, 8.5, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 8.5, 10.375, 7.75, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 7, 10.25, 7.75, 10.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 12.375, 9, 12.5, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 12.375, 9, 12.25, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 3.9184, 7.8367 ],
+			"to": [ 9.959141, 4.081665, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 6.25, 13.875, 8.625, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.25, 13.875, 8.625, 13.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 15.875, 12, 13.5, 12.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3.5, 11.875, 5.875, 12 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.375, 6.625, 6.625, 6.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.625, 6.5, 6.375, 6.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 4.4082, 7.8367 ],
+			"to": [ 9.142815, 4.73473, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 8.75, 13.125, 10.5, 13.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.5, 13.375, 12.25, 13.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 14, 13.125, 12.25, 13.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 14, 13.125, 15.75, 13.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4, 8.875, 4.25, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 16, 12.875, 15.75, 13.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 4.5714, 7.6735 ],
+			"to": [ 7.510161, 4.734665, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 7.875, 6.25, 8 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 8.125, 6.25, 8 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 11.375, 9.625, 10.875, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 15.5, 10, 16, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 12.125, 9, 12.25, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 12.125, 9, 12, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 12.4082, 7.8367 ],
+			"to": [ 9.142815, 13.55106, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3, 12.875, 4.75, 13.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.75, 13.125, 6.5, 12.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 15.125, 1.25, 16 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3, 15.125, 4.75, 16 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 3.25, 0, 3.5, 0.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 3.25, 0, 3, 0.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, -1.7959, 7.6735 ],
+			"to": [ 8.326523, -1.632635, 8.163296 ],
+			"faces": {
+				"down": { "uv": [ 2, 7.875, 3, 8.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 2, 8.625, 3, 8.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.375, 4.875, 4.375, 5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.375, 4.75, 5.375, 4.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 12.75, 9.25, 13.125, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 12, 9.25, 11.625, 9.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, -1.6327, 7.5102 ],
+			"to": [ 7.673461, -0.9796388, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 2.375, 6.25, 2.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 3.375, 6.25, 3.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3.5, 4.875, 3, 5.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3, 5.375, 3.5, 5.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.75, 3.625, 5.875, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.25, 5.25, 6.125, 5.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, -1.6327, 8 ],
+			"to": [ 7.183665, -1.469435, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 6.75, 0.125, 6.875, 0.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.75, 0.375, 6.875, 0.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.875, 0.375, 6.75, 0.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.75, 0.5, 6.875, 0.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 0.875, 6.875, 1 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 1, 6.75, 1.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, -1.4694, 7.8367 ],
+			"to": [ 7.183665, -1.142869, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 6.75, 2.375, 6.875, 2.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.75, 2.625, 6.875, 2.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.375, 3.25, 6.25, 3.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.25, 3, 6.375, 3.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.25, 2.75, 6.375, 3 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 2.5, 6.25, 2.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, -1.3061, 7.3469 ],
+			"to": [ 7.673461, -1.142835, 7.510165 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 0.125, 6.25, 0.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.25, 9.625, 6.75, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7.75, 9.5, 7.25, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.75, 6, 6.25, 6.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 2.625, 6.875, 2.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 2.75, 6.75, 2.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, -1.3061, 7.6735 ],
+			"to": [ 7.999992, -0.9795694, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 4, 5.375, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.625, 4.25, 5.375, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.25, 7.125, 3.5, 7.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3.5, 5.375, 4.25, 5.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.25, 2.25, 6.375, 2.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 1.5, 6.25, 1.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 3.102, 7.5102 ],
+			"to": [ 8.979584, 3.265265, 7.83673 ],
+			"faces": {
+				"down": { "uv": [ 14.25, 12.875, 15.75, 13.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 3, 12.875, 4.5, 12.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 13.625, 11, 12.125, 11.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 9.125, 11, 10.625, 11.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.375, 6.375, 6.625, 6.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.625, 6.25, 6.375, 6.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 3.102, 8.1633 ],
+			"to": [ 9.142849, 3.265265, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 11, 9.125, 11.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.25, 11.125, 5.875, 11 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7.5, 11, 5.875, 11.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 14.25, 11.125, 15.875, 11.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 0.5, 6.75, 0.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 0.625, 6.625, 0.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 3.102, 8.3265 ],
+			"to": [ 8.979584, 3.265265, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 3.25, 13.375, 4.75, 13.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.75, 13.5, 6.25, 13.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.75, 10.875, 4.25, 11 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 10.625, 11, 12.125, 11.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 0.75, 6.75, 0.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 1.125, 6.625, 1.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 3.2653, 7.3469 ],
+			"to": [ 7.673461, 3.428565, 7.510165 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 3, 6.25, 3.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 3, 6.25, 2.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.25, 2.75, 5.75, 2.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.75, 2.625, 6.25, 2.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 2.25, 6.75, 2.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 2.375, 6.625, 2.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 3.2653, 8.489799 ],
+			"to": [ 7.673461, 3.428565, 8.653065 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 2.25, 6.25, 2.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 2.25, 6.25, 2.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.25, 0.375, 5.75, 0.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 11.75, 9.5, 12.25, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 3, 6.75, 3.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 3.125, 6.625, 3.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 3.4286, 7.3469 ],
+			"to": [ 7.346931, 3.591865, 7.510165 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 6.125, 6.625, 6.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 5.875, 6.625, 5.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.625, 5.625, 6.375, 5.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.375, 5.5, 6.625, 5.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 3.5, 6.75, 3.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 3.625, 6.625, 3.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 4.5714, 8.1633 ],
+			"to": [ 7.510196, 4.734665, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 15.375, 9.25, 15.75, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 9.25, 6.75, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.75, 9, 6.375, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.375, 9.25, 6.75, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 3.75, 6.75, 3.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 3.875, 6.625, 4 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 5.2245, 7.8367 ],
+			"to": [ 8.979584, 6.040826, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 9.75, 12.875, 11.25, 13.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 7.5, 12.875, 9, 12.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.75, 13.5, 3.25, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.75, 13.5, 6.25, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 3.5, 1.125, 3.75, 1.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4, 1.125, 3.75, 1.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 9.9592, 7.8367 ],
+			"to": [ 8.979584, 10.28573, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 6, 12.625, 7.5, 12.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 12, 12.875, 13.5, 12.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6, 12.625, 4.5, 12.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 12.75, 12.875, 14.25, 13.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 15.75, 13.125, 16, 13.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 8.625, 13.375, 8.375, 13.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 10.449, 7.8367 ],
+			"to": [ 8.979584, 11.26533, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 11.25, 12.875, 12.75, 13.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 3, 12.625, 4.5, 12.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 13.25, 14.5, 11.75, 15.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 13.25, 14.5, 14.75, 15.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 1.75, 1.875, 2, 2.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 3.75, 3, 3.5, 3.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 12.2449, 7.8367 ],
+			"to": [ 8.979584, 12.40816, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 12.625, 15, 12.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8.25, 13.125, 9.75, 12.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 15.125, 11, 13.625, 11.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.75, 10.875, 7.25, 11 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.375, 5.375, 6.625, 5.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.625, 5, 6.375, 5.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 13.551, 7.8367 ],
+			"to": [ 8.979584, 14.85712, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 9, 12.625, 10.5, 12.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.5, 12.875, 12, 12.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2.75, 14.125, 1.25, 15.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2.75, 14.125, 4.25, 15.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 3.25, 5.875, 3.5, 6.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 3.25, 5.875, 3, 6.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, -1.9592, 7.6735 ],
+			"to": [ 7.346965, -1.795935, 8.000031 ],
+			"faces": {
+				"down": { "uv": [ 6.25, 1.25, 6.375, 1.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.25, 0.75, 6.375, 0.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.75, 4, 6.625, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.625, 4.125, 6.75, 4.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.375, 4.875, 6.625, 5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.625, 4.75, 6.375, 4.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, -1.3061, 7.8367 ],
+			"to": [ 7.346965, -1.142835, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 6.625, 4.5, 6.75, 4.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.625, 4.75, 6.75, 4.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.75, 4.75, 6.625, 4.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.625, 4.875, 6.75, 5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 5, 6.75, 5.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 5.125, 6.625, 5.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, -1.1429, 7.3469 ],
+			"to": [ 7.51023, -0.9796347, 7.510165 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 4.625, 6.625, 4.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 3.875, 6.625, 3.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.625, 3.625, 6.375, 3.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.375, 3, 6.625, 3.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 5.25, 6.75, 5.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 5.375, 6.625, 5.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 2.6122, 7.8367 ],
+			"to": [ 8.816353, 3.101996, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 13, 12.125, 14.25, 12.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 11.75, 12.375, 13, 12.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 14.5, 14.125, 13.25, 14.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 11.75, 14.125, 13, 14.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.5, 5, 5.75, 5.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.75, 5.375, 5.5, 5.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 2.7755, 7.6735 ],
+			"to": [ 8.816353, 3.102031, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 7.25, 10.875, 8.5, 11 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8.5, 11, 9.75, 10.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.25, 12.125, 3, 12.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 10.875, 12.375, 12.125, 12.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.375, 2.75, 6.5, 3 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.625, 2.75, 6.5, 3 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 2.7755, 8.1633 ],
+			"to": [ 8.816353, 3.102031, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 9.75, 10.875, 11, 11 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 11, 11, 12.25, 10.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 11.75, 12.125, 10.5, 12.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.25, 12.125, 5.5, 12.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 2.75, 6.75, 3 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.5, 1.5, 6.375, 1.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 3.7551, 7.5102 ],
+			"to": [ 8.816353, 3.918365, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 10.875, 13.5, 11 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13.5, 11, 14.75, 10.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 16, 10.875, 14.75, 11 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.25, 10.75, 5.5, 10.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 5.5, 6.75, 5.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 5.625, 6.625, 5.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 3.7551, 8.3265 ],
+			"to": [ 8.816353, 3.918365, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 5.5, 10.75, 6.75, 10.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.75, 10.875, 8, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 9.25, 10.75, 8, 10.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 9.25, 10.75, 10.5, 10.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 8.25, 6.75, 8.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 8.375, 6.625, 8.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 4.2449, 7.6735 ],
+			"to": [ 7.346965, 4.57143, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 6.625, 8.5, 6.75, 8.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 15.875, 9.75, 16, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.625, 1.5, 6.5, 1.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.625, 1.5, 6.75, 1.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.375, 1.25, 6.5, 1.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.5, 0.875, 6.375, 1.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 4.2449, 8.1633 ],
+			"to": [ 7.346965, 4.57143, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 5.25, 1.625, 5.375, 1.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.25, 1.875, 5.375, 1.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.625, 0.875, 6.5, 1.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.625, 0.875, 6.75, 1.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.375, 0.125, 6.5, 0.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.625, 0.125, 6.5, 0.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 6.0408, 7.8367 ],
+			"to": [ 8.816353, 7.346922, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 6.75, 12.125, 8, 12.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.5, 12.375, 6.75, 12.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 1.25, 0.25, 0, 1.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.25, 14.125, 5.5, 15.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 3, 0.875, 3.25, 1.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 3.5, 7, 3.25, 8 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 7.6735, 7.8367 ],
+			"to": [ 8.816353, 9.959213, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 1.25, 0.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 14.25, 12.375, 15.5, 12.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 1.25, 12.5, 0, 14.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 0, 14.25, 1.25, 16 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 0.75, 1.25, 1, 3 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 1.25, 1.25, 1, 3 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 10.2857, 7.8367 ],
+			"to": [ 8.816353, 10.44897, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 14.625, 12.375, 15.875, 12.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 14.75, 14.375, 16, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 11.75, 10.75, 10.5, 10.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 11.75, 10.75, 13, 10.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.5, 0, 6.75, 0.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 9.125, 6.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 11.2653, 7.8367 ],
+			"to": [ 8.816353, 11.42857, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 13.375, 12.375, 14.625, 12.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 12.125, 12.625, 13.375, 12.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 14.25, 10.75, 13, 10.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 14.25, 10.75, 15.5, 10.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 7, 9.125, 7.25, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7.5, 9.125, 7.25, 9.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 12.0816, 7.8367 ],
+			"to": [ 8.816353, 12.24486, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 9.625, 12.375, 10.875, 12.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8.375, 12.625, 9.625, 12.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.5, 10.625, 4.25, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.5, 10.625, 6.75, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 7.5, 9.125, 7.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 8, 9.125, 7.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 14.8571, 7.8367 ],
+			"to": [ 8.816353, 15.83669, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 7.125, 12.375, 8.375, 12.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 14.75, 13.625, 16, 13.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3.25, 13.375, 2, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 14.75, 14.375, 16, 15.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4, 9.125, 4.25, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 2, 0.625, 1.75, 1.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, -1.9592, 7.8367 ],
+			"to": [ 8.489758, -1.795935, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 1.875, 5.25, 2 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 1.875, 5.25, 1.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.375, 2.5, 4.5, 2.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.5, 2.375, 5.375, 2.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.25, 2.125, 5.375, 2.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 16, 10.625, 15.875, 10.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, -1.4694, 7.3469 ],
+			"to": [ 7.67343, -1.306135, 7.510165 ],
+			"faces": {
+				"down": { "uv": [ 8, 9.125, 8.25, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8.25, 9.25, 8.5, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 8.75, 9.125, 8.5, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 8.75, 9.125, 9, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 15.875, 11.125, 16, 11.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 10.875, 11.5, 10.75, 11.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 1.4694, 7.8367 ],
+			"to": [ 8.653023, 2.612257, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 14.875, 11.5, 15.875, 11.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.25, 11.375, 5.25, 11.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 10.75, 2, 11.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 11.625, 3, 12.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4, 9.875, 4.25, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 3.5, 1, 3.25, 1.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 2.449, 7.6735 ],
+			"to": [ 8.653023, 2.775531, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 4.375, 5.375, 4.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 5.625, 5.375, 5.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7.25, 11.125, 6.25, 11.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 7.25, 11.125, 8.25, 11.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 7.375, 6.875, 7.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 8.125, 6.75, 8.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 2.449, 8.1633 ],
+			"to": [ 8.653023, 2.775531, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 5.125, 5.375, 5.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 5.125, 5.375, 5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 9.25, 11.125, 8.25, 11.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 9.25, 11.125, 10.25, 11.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 7.875, 6.875, 8.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 7.625, 6.75, 7.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 2.9388, 7.5102 ],
+			"to": [ 8.653023, 3.102065, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 4.5, 5.375, 4.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 3.625, 5.375, 3.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.375, 3.375, 4.375, 3.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 7.875, 10.625, 8.875, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 14.375, 8.875, 14.5, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 14.375, 8.875, 14.25, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 2.9388, 8.3265 ],
+			"to": [ 8.653023, 3.102065, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 8.875, 10.625, 9.875, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 9.875, 10.75, 10.875, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 11.875, 10.625, 10.875, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 11.875, 10.625, 12.875, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 13.875, 8.875, 14, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 13.875, 8.875, 13.75, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 3.102, 7.3469 ],
+			"to": [ 7.836696, 3.265265, 7.510165 ],
+			"faces": {
+				"down": { "uv": [ 14.25, 9.375, 14.625, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 14.25, 9.375, 14.625, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 15, 9.375, 14.625, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 15, 9.375, 15.375, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 13.625, 8.875, 13.75, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 13.625, 8.875, 13.5, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 3.102, 8.489799 ],
+			"to": [ 7.836696, 3.265265, 8.653065 ],
+			"faces": {
+				"down": { "uv": [ 9.75, 9.25, 10.125, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 11.25, 9.375, 11.625, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 9.75, 9.25, 9.375, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 10.125, 9.25, 10.5, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 13.375, 8.875, 13.5, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 13.375, 8.875, 13.25, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 4.4082, 7.6735 ],
+			"to": [ 7.510165, 4.571465, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 13.125, 8.875, 13.25, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13, 9, 13.125, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 12.75, 8.875, 12.625, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 12.5, 8.875, 12.625, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 12.375, 8.875, 12.5, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 12.375, 8.875, 12.25, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 4.4082, 8.1633 ],
+			"to": [ 7.510165, 4.571465, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 9.375, 8.875, 9.5, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 9.25, 9, 9.375, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 9.25, 8.875, 9.125, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 9, 8.875, 9.125, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 8.125, 8.875, 8.25, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 8.125, 8.875, 8, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 4.7347, 7.8367 ],
+			"to": [ 10.12241, 4.897965, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 8.625, 13.875, 10.75, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.25, 13.625, 8.375, 13.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 8.625, 11.5, 6.5, 11.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 8.75, 11.625, 10.875, 11.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 9, 9.125, 9.25, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 9.5, 9.125, 9.25, 9.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 5.0612, 8 ],
+			"to": [ 8.653023, 5.224465, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 14.875, 10.625, 15.875, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 10.625, 5.375, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.375, 9.375, 4.375, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.375, 9, 5.375, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 7.875, 8.875, 8, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7.875, 8.875, 7.75, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 5.2245, 7.6735 ],
+			"to": [ 8.653023, 5.877561, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 8.125, 5.375, 8.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 8.125, 5.375, 8 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 14.75, 13.625, 13.75, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 12.75, 13.625, 13.75, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.875, 5.25, 6, 5.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.875, 5.25, 5.75, 5.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 5.2245, 8.1633 ],
+			"to": [ 8.653023, 5.877561, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 5.75, 5.375, 5.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 5.75, 5.375, 5.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 10.625, 13.375, 9.625, 13.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 8.625, 13.375, 9.625, 13.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.625, 0.375, 5.75, 0.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.625, 0.375, 5.5, 0.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 7.3469, 7.8367 ],
+			"to": [ 8.653023, 7.67343, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 12.75, 13.375, 13.75, 13.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13.75, 13.625, 14.75, 13.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 16, 12.625, 15, 12.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.25, 11.125, 6.25, 11.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.5, 1.125, 5.75, 1.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.75, 0.875, 5.5, 1.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 10.7755, 7.6735 ],
+			"to": [ 8.653023, 11.2653, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 10.125, 5.375, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 10.125, 5.375, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 6.375, 2, 6.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 6, 3, 6.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.125, 8.5, 4.25, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 4.125, 6.25, 4.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 10.7755, 8.1633 ],
+			"to": [ 8.653023, 11.2653, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 8.5, 5.375, 8.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 8.5, 5.375, 8.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 6.75, 2, 7.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 5.625, 3, 6 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.25, 6.75, 6.375, 7.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 7.125, 6.25, 7.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 11.4286, 7.8367 ],
+			"to": [ 8.653023, 12.08166, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 11.75, 13.375, 12.75, 13.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.75, 13.625, 11.75, 13.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 9.375, 2, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 14.75, 13.625, 15.75, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 15.75, 13.625, 16, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.625, 3.875, 4.375, 4.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 12.2449, 7.6735 ],
+			"to": [ 8.653023, 13.55102, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 3.75, 5.375, 3.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 3.75, 5.375, 3.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 11.75, 14.125, 10.75, 15.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 9.75, 14.125, 10.75, 15.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.25, 2.25, 4.375, 3.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.375, 1.25, 4.25, 2.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 12.2449, 8.1633 ],
+			"to": [ 8.653023, 13.38776, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 3.25, 5.375, 3.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 3.25, 5.375, 3.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 12.5, 2, 13.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 9.875, 3, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.25, 0.375, 4.375, 1.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.5, 2.25, 4.375, 3.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 15.8367, 7.8367 ],
+			"to": [ 8.653023, 16.48976, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 11.125, 13.25, 11.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13.25, 11.375, 14.25, 11.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 11.75, 13.625, 10.75, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 11.75, 13.625, 12.75, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.625, 7, 4.875, 7.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.625, 7, 4.375, 7.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, -1.9592, 7.6735 ],
+			"to": [ 7.999996, -1.795935, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 15, 9.25, 15.375, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.5, 9.375, 10.875, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.75, 8.875, 6.375, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 14.625, 9.25, 15, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 9.875, 8.875, 10, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 9.875, 8.875, 9.75, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, -1.9592, 8 ],
+			"to": [ 8.816322, -1.795935, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 8.25, 5.375, 8.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 8.75, 5.375, 8.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 14.875, 10.625, 13.875, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 12.875, 10.625, 13.875, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 7.625, 8.875, 7.75, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7.625, 8.875, 7.5, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, -0.8163, 7.8367 ],
+			"to": [ 8.489792, 1.469414, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 5.875, 4.25, 6.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 3.5, 5.375, 4.25, 5.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2, 12.375, 1.25, 14.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 0, 1.25, 0.75, 3 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 1.25, 1.875, 1.5, 3.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 1.75, 1.875, 1.5, 3.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, -0.6531, 7.6735 ],
+			"to": [ 8.489792, 2.448941, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 7.25, 9.875, 8, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 7.25, 10.125, 8, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 0.75, 5.375, 0, 7.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 0, 7.75, 0.75, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 3.375, 9.125, 3.5, 11.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 3.375, 9.125, 3.25, 11.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, -0.6531, 8.1633 ],
+			"to": [ 8.489792, 2.448941, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 13, 10.375, 13.75, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13, 10.375, 13.75, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 0.75, 3, 0, 5.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 0, 10.125, 0.75, 12.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 3.125, 9.125, 3.25, 11.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 3.125, 9.125, 3, 11.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 2.2857, 7.5102 ],
+			"to": [ 8.489792, 2.938761, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 14, 10.125, 14.75, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 14.75, 10.25, 15.5, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2, 1.375, 1.25, 1.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 4.625, 2.75, 5.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 10.625, 13.375, 10.75, 13.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 8.875, 6.25, 9.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 2.2857, 8.3265 ],
+			"to": [ 8.489792, 2.938761, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 8.75, 10, 9.5, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8.75, 10, 9.5, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2.75, 5.125, 2, 5.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 1.25, 0.125, 2, 0.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.875, 3.625, 6, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.125, 5.25, 6, 5.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 2.9388, 7.3469 ],
+			"to": [ 8.163261, 3.102065, 7.510165 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 5.125, 6.25, 5.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 2.625, 6.25, 2.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.25, 4.75, 5.75, 4.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.75, 3.125, 6.25, 3.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.25, 1.5, 5.375, 1.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.375, 1.375, 5.25, 1.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 2.9388, 8.489799 ],
+			"to": [ 8.163261, 3.102065, 8.653065 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 8.625, 6.25, 8.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 8.625, 6.25, 8.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 12.75, 9.375, 12.25, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 12.25, 9.5, 12.75, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 12.75, 8.875, 12.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 13, 8.875, 12.875, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 3.9184, 7.5102 ],
+			"to": [ 7.673465, 4.081665, 7.83673 ],
+			"faces": {
+				"down": { "uv": [ 6.75, 7.125, 6.875, 7.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.75, 7.125, 6.875, 6.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7.125, 8.875, 7, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 7.125, 8.875, 7.25, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 11.5, 9.125, 11.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 12, 9.125, 11.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 3.9184, 8.1633 ],
+			"to": [ 8.489792, 4.081665, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 10.5, 7.625, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.125, 10.625, 6.875, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.125, 10.5, 5.375, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.625, 0, 5.375, 0.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 8.5, 8.875, 8.625, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 8.75, 8.875, 8.625, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 4.898, 7.6735 ],
+			"to": [ 8.489792, 5.22453, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 0.125, 5.375, 0.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.625, 0.375, 5.375, 0.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.25, 5.625, 3.5, 5.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3.5, 6.625, 4.25, 6.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 6.625, 6.875, 6.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 6.375, 6.75, 6.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 4.898, 8.1633 ],
+			"to": [ 8.489792, 5.22453, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 1.125, 5.375, 1.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.625, 4, 5.375, 3.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.25, 3.875, 3.5, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3.5, 6.875, 4.25, 7.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 6.125, 6.875, 6.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 5.875, 6.75, 6.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 5.8776, 7.6735 ],
+			"to": [ 8.489792, 6.857192, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 4.25, 5.375, 4.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 2, 0.125, 2.75, 0 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2, 6.125, 1.25, 6.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 1.25, 6.875, 2, 7.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.5, 0.5, 4.625, 1.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.5, 0.5, 4.375, 1.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 5.8776, 8.1633 ],
+			"to": [ 8.489792, 6.693926, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 1.25, 0, 2, 0.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 15.25, 15.25, 16, 15.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2, 3.625, 1.25, 4.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 1.25, 5.5, 2, 6.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.375, 0.625, 5.5, 1.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.5, 6.875, 5.375, 7.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 6.6939, 8.1633 ],
+			"to": [ 8.326527, 7.02043, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 14.875, 9.875, 15.5, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 14.875, 10.125, 15.5, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.125, 2.25, 3.5, 2.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3.5, 2.5, 4.125, 2.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 5.625, 6.875, 5.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 5.375, 6.75, 5.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 6.8571, 7.6735 ],
+			"to": [ 8.326527, 7.020365, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 11.375, 9.75, 12, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 7.625, 9.875, 8.25, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 10.125, 9.75, 9.5, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 8.875, 9.75, 9.5, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 8.125, 6.75, 8.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 8, 6.625, 8.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 9.469399, 7.6735 ],
+			"to": [ 8.489792, 10.77552, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 10.25, 15.25, 10.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 14.5, 10.5, 15.25, 10.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2, 10.375, 1.25, 11.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 1.25, 8.375, 2, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.25, 6.25, 4.375, 7.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.375, 5.25, 4.25, 6.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 9.469399, 8.1633 ],
+			"to": [ 8.489792, 10.77552, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 15.25, 10.375, 16, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 15.25, 10.375, 16, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2, 11.375, 1.25, 12.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 1.25, 9.375, 2, 10.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.25, 4.25, 4.375, 5.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.375, 3.25, 4.25, 4.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 11.2653, 7.6735 ],
+			"to": [ 8.489792, 11.42857, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 10.125, 10.25, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.25, 10.25, 11, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7.25, 10, 6.5, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.5, 9.875, 7.25, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 3.375, 6.75, 3.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 3.25, 6.625, 3.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 11.2653, 8.1633 ],
+			"to": [ 8.489792, 11.42857, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 8, 10, 8.75, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8, 10, 8.75, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 10.25, 10, 9.5, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 9.5, 9.875, 10.25, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 2.125, 6.75, 2.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 2, 6.625, 2.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 12.0816, 7.6735 ],
+			"to": [ 8.489792, 12.24486, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 10.25, 10, 11, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.25, 10, 11, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 11.75, 10, 11, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 11, 9.875, 11.75, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 0.375, 6.75, 0.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.5, 0, 6.375, 0.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 12.0816, 8.1633 ],
+			"to": [ 8.489792, 12.24486, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 1, 5.375, 1.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.625, 1, 5.375, 0.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 8.375, 10.5, 7.625, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 8.375, 10.5, 9.125, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 1.25, 6.875, 1.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 1.125, 6.75, 1.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 13.3878, 8.1633 ],
+			"to": [ 8.489792, 14.36739, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 9.125, 10.5, 9.875, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 9.875, 10.625, 10.625, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2, 7.625, 1.25, 8.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 15.25, 15.25, 16, 16 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.375, 9.75, 5.5, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.5, 9, 5.375, 9.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 13.551, 7.6735 ],
+			"to": [ 8.489792, 14.36733, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 10.625, 10.5, 11.375, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 11.375, 10.625, 12.125, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2, 4.875, 1.25, 5.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 1.25, 4.25, 2, 4.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.5, 4.375, 5.625, 5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.75, 4.375, 5.625, 5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 15.1837, 7.6735 ],
+			"to": [ 8.489792, 15.83676, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 10.125, 13.25, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13.25, 10.25, 14, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2.75, 4.125, 2, 4.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 3.625, 2.75, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.625, 2.375, 5.75, 2.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.625, 2.375, 5.5, 2.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 15.1837, 8.1633 ],
+			"to": [ 8.489792, 15.6735, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 10.75, 10.25, 11.5, 10.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.75, 10.5, 11.5, 10.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.25, 11.5, 3.5, 11.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3.5, 10.75, 4.25, 11.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.25, 6.375, 6.375, 6.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 6, 6.25, 6.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 16.4898, 7.8367 ],
+			"to": [ 8.489792, 16.9796, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 4.375, 4.25, 4.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 3.5, 4.375, 4.25, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.25, 11.125, 3.5, 11.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 0.125, 2.75, 0.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.5, 8.375, 5.75, 8.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.75, 8.75, 5.5, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, -1.7959, 8.1633 ],
+			"to": [ 8.979622, -1.306104, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 5.875, 5.375, 6 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 6.125, 5.375, 6 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 8.625, 2, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 9, 3, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.25, 5.625, 6.375, 6 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 5.25, 6.25, 5.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, -1.6327, 7.8367 ],
+			"to": [ 8.326561, -0.8163735, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 7, 5.375, 7.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.875, 7.5, 5.375, 7.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2.5, 1.125, 2, 1.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2.5, 1.75, 3, 2.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4, 3, 4.25, 3.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4, 3, 3.75, 3.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, -1.4694, 7.5102 ],
+			"to": [ 7.836765, -1.142869, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 0.125, 7, 0.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.875, 0.125, 7, 0 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.875, 5.125, 6.75, 5.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.75, 4.875, 6.875, 5.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 4.625, 6.875, 4.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 4.375, 6.75, 4.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, -0.9796, 7.6735 ],
+			"to": [ 8.163296, -0.6530694, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 12, 9.25, 12.375, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 12.375, 9.375, 12.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.875, 10.25, 5.5, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.875, 10.25, 6.25, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 3.625, 6.875, 3.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 3.375, 6.75, 3.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, -0.9796, 8.1633 ],
+			"to": [ 8.326561, -0.6530694, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 7, 6.25, 7.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 7, 6.25, 6.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.375, 8.75, 4.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.375, 8.75, 4.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 7.375, 15.25, 7.5, 15.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 10.25, 15.25, 10.125, 15.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 2.1224, 7.5102 ],
+			"to": [ 7.836765, 2.285665, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 10, 8.875, 10.125, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.125, 9, 10.25, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 10.625, 8.875, 10.5, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 10.625, 8.875, 10.75, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 10.75, 8.875, 10.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 11, 8.875, 10.875, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 2.1224, 8.3265 ],
+			"to": [ 7.836765, 2.285665, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 11.25, 8.875, 11.375, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 11.375, 9, 11.5, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 11.625, 8.875, 11.5, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 11.625, 8.875, 11.75, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 12, 8.875, 12.125, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 12.25, 8.875, 12.125, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 2.6122, 7.3469 ],
+			"to": [ 8.326561, 2.938731, 7.510165 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 6.25, 6.25, 6.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 6.25, 6.25, 6.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.375, 6.375, 4.875, 6.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.375, 6.375, 4.875, 6.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.125, 2.25, 4.25, 2.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.25, 2, 4.125, 2.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 2.6122, 8.489799 ],
+			"to": [ 8.326561, 2.938731, 8.653065 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 5, 6.25, 5.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 5, 6.25, 4.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.125, 0.125, 3.625, 0.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 15.5, 12.125, 16, 12.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.125, 1.75, 4.25, 2 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.25, 0.125, 4.125, 0.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 3.9184, 7.6735 ],
+			"to": [ 8.489826, 4.081665, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 11.75, 9.875, 12.375, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13.625, 10.125, 14.25, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7, 9.75, 6.375, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.75, 9.75, 6.375, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 14.5, 8.875, 14.625, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 14.75, 8.875, 14.625, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 4.0816, 7.6735 ],
+			"to": [ 8.326561, 4.897926, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 4.5, 6.25, 4.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 4.25, 6.25, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 1.125, 2.5, 1.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 0.5, 2.5, 1.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.375, 4.375, 5.5, 5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.5, 6.25, 5.375, 6.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 4.0816, 8.1633 ],
+			"to": [ 8.326561, 4.897926, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 3.5, 6.25, 3.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 3.5, 6.25, 3.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 0.5, 2.5, 1.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3, 11.5, 3.5, 12.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.375, 0, 5.5, 0.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.5, 1.25, 5.375, 1.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 7.0204, 7.6735 ],
+			"to": [ 8.326561, 9.469379, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 0.5, 6.25, 0.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 0.375, 6.25, 0.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 1.25, 5.875, 0.75, 7.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 0.75, 3.5, 1.25, 5.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 3.875, 8.875, 4, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 3.625, 8.875, 3.5, 10.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 7.0204, 8.1633 ],
+			"to": [ 8.326561, 9.469379, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 6.75, 9.5, 7.25, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 0.125, 6.25, 0 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 1.25, 8.25, 0.75, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 0.75, 10.625, 1.25, 12.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 3.75, 8.875, 3.875, 10.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 3.75, 8.875, 3.625, 10.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 11.4286, 7.6735 ],
+			"to": [ 8.326561, 12.08166, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 8.25, 6.25, 8.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 8.25, 6.25, 8.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3.5, 3.375, 3, 3.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3, 2.875, 3.5, 3.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.5, 1.875, 5.625, 2.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.75, 1.875, 5.625, 2.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 11.4286, 8.1633 ],
+			"to": [ 8.326561, 12.08166, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 7.75, 6.25, 7.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 7.75, 6.25, 7.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3.5, 2.375, 3, 2.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3, 1.875, 3.5, 2.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.5, 1.375, 5.625, 1.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.75, 1.375, 5.625, 1.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 14.3673, 7.6735 ],
+			"to": [ 8.326561, 15.18363, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 7.5, 6.25, 7.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 7.5, 6.25, 7.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 7.25, 2.5, 7.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 3, 2.5, 3.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.375, 3.75, 5.5, 4.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.5, 3.125, 5.375, 3.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 14.3673, 8.1633 ],
+			"to": [ 8.326561, 15.18363, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 7.25, 6.25, 7.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 7.25, 6.25, 7.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 3, 2.5, 3.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 2.375, 2.5, 3 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.375, 2.5, 5.5, 3.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.5, 1.875, 5.375, 2.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 15.6735, 8.1633 ],
+			"to": [ 8.326561, 16.65309, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 6.75, 6.25, 6.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 6.75, 6.25, 6.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 1.75, 0.625, 1.25, 1.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 7.125, 2.5, 7.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.375, 8.25, 5.5, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.5, 7.5, 5.375, 8.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 15.8367, 7.6735 ],
+			"to": [ 8.326561, 16.65303, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 6.5, 6.25, 6.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 6.5, 6.25, 6.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3, 2.375, 2.5, 3 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2, 1.75, 2.5, 2.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.375, 5.625, 5.5, 6.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.5, 5, 5.375, 5.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 16.9796, 7.8367 ],
+			"to": [ 8.326561, 17.30613, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 5.25, 4.875, 5.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 9.75, 4.875, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.375, 9.75, 4.875, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.375, 9.75, 4.875, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.5, 0.125, 5.75, 0.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6, 5.75, 5.75, 6 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, -1.1429, 8.1633 ],
+			"to": [ 8.979557, -0.9796347, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 2.75, 5.375, 2.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 15.125, 11.125, 16, 11 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.25, 1.625, 4.375, 1.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.375, 1.5, 5.25, 1.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 6.875, 7, 7 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 6.75, 6.875, 6.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 2.449, 7.3469 ],
+			"to": [ 8.163231, 2.612265, 7.510165 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 9.125, 12.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 12.75, 9.25, 13, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 13.25, 9.125, 13, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 13.25, 9.125, 13.5, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 5.875, 7, 6 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 5.75, 6.875, 5.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 2.449, 8.489799 ],
+			"to": [ 8.163231, 2.612265, 8.653065 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 9.125, 13.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13.75, 9.25, 14, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 14.25, 9.125, 14, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 14.25, 9.125, 14.5, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 4.625, 7, 4.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 4.5, 6.875, 4.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 3.9184, 7.5102 ],
+			"to": [ 8.163231, 4.081665, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 9.125, 14.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 14.75, 9.25, 15, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 15.25, 9.125, 15, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 15.25, 9.125, 15.5, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 3.375, 7, 3.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 3.25, 6.875, 3.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 3.9184, 8.3265 ],
+			"to": [ 8.163231, 4.081665, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 15.5, 9.125, 15.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 15.75, 9.25, 16, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7.125, 9, 6.875, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 7.125, 9, 7.375, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 1.625, 7, 1.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 1.5, 6.875, 1.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 4.7347, 7.5102 ],
+			"to": [ 8.163231, 6.204087, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 9, 7.625, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 7.625, 9.125, 7.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 3.25, 6.875, 3, 8 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3.25, 8, 3.5, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.25, 9.5, 4.375, 10.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 3.625, 0, 3.5, 1.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 4.7347, 8.3265 ],
+			"to": [ 8.163231, 6.204087, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 7.875, 9, 8.125, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8.125, 9.125, 8.375, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 2, 2.5, 1.75, 3.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3, 8, 3.25, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.25, 7.25, 4.375, 8.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.375, 8.375, 4.25, 9.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 11.102, 7.5102 ],
+			"to": [ 8.163231, 11.26526, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 9.375, 9, 9.625, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 9.625, 9.125, 9.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 10.125, 9, 9.875, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 10.125, 9, 10.375, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 8.25, 8.875, 8.375, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 8.5, 8.875, 8.375, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 12.0816, 7.5102 ],
+			"to": [ 8.163231, 12.57139, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 10.375, 9, 10.625, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.625, 9.125, 10.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.25, 0.75, 4, 1.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4, 0.375, 4.25, 0.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.125, 7.375, 4.25, 7.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.25, 7.75, 4.125, 8.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 12.0816, 8.3265 ],
+			"to": [ 8.163231, 12.57139, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 3.25, 6.875, 3.5, 7 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 3.25, 1, 3.5, 0.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.75, 9.875, 5.5, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.5, 9.5, 5.75, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.125, 8.125, 4.25, 8.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 4.875, 6.25, 5.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 16.6531, 7.6735 ],
+			"to": [ 8.163231, 17.14289, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 6, 0.625, 6.25, 0.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 1.25, 6.625, 1.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.75, 9.125, 5.5, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.5, 8, 5.75, 8.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.25, 0, 4.375, 0.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 7.5, 6.25, 7.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 16.6531, 8.1633 ],
+			"to": [ 8.163231, 17.14289, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 15.75, 9.5, 16, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 15.75, 9.5, 16, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.75, 7.625, 5.5, 8 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.5, 7.25, 5.75, 7.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.25, 3.75, 6.375, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 4.5, 6.25, 4.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 17.3061, 7.8367 ],
+			"to": [ 8.163231, 17.79589, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 6, 5.75, 6.25, 6 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 4.5, 6, 4.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.75, 6.875, 5.5, 7.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.5, 6.5, 5.75, 6.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.5, 6.125, 5.75, 6.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.75, 5.75, 5.5, 6.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8, -1.9592, 8.1633 ],
+			"to": [ 8.489796, -1.795935, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 10.875, 9.25, 11.25, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13.125, 9.375, 13.5, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 13.875, 9.25, 13.5, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 13.875, 9.25, 14.25, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 14, 8.875, 14.125, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 14.25, 8.875, 14.125, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8, -1.3061, 8.1633 ],
+			"to": [ 8.979591, -1.142835, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 10.375, 12.25, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 11.5, 10.375, 12.25, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 13, 10.375, 12.25, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 12.25, 10.25, 13, 10.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 14.75, 8.875, 14.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 15, 8.875, 14.875, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8, -1.1429, 7.6735 ],
+			"to": [ 8.163265, -0.9796347, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 15.75, 8.875, 15.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 15.875, 9, 16, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7.125, 8.5, 7, 8.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 7, 8.375, 7.125, 8.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 15.875, 12, 16, 12.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 8.75, 11.5, 8.625, 11.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8, 3.2653, 7.5102 ],
+			"to": [ 9.142857, 3.428565, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 2.125, 5.25, 2.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.5, 2.375, 5.375, 2.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.375, 2.875, 4.5, 3 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.5, 3, 5.375, 3.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.25, 2, 5.375, 2.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.375, 1.875, 5.25, 2 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8, 3.2653, 8.3265 ],
+			"to": [ 9.142857, 3.428565, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 1.25, 5.25, 1.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 1.5, 5.25, 1.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.25, 2, 4.375, 2.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.5, 2.625, 5.375, 2.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 5.25, 1.25, 5.375, 1.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 16, 10.5, 15.875, 10.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.1633, -1.4694, 8.3265 ],
+			"to": [ 8.979626, -1.142869, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 9.625, 6.375, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 12.625, 9.875, 13.25, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.125, 2, 3.5, 2.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 3.5, 1.75, 4.125, 2 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.25, 2, 6.375, 2.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 1.75, 6.25, 2 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.1633, -0.8163, 7.6735 ],
+			"to": [ 8.326565, -0.6530347, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 6.625, 7.875, 6.75, 8 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.625, 7.875, 6.75, 7.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.75, 7.625, 6.625, 7.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.625, 7.5, 6.75, 7.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 7.375, 6.75, 7.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 7.25, 6.625, 7.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.1633, 2.1224, 7.5102 ],
+			"to": [ 8.326565, 2.285665, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 6.625, 7.125, 6.75, 7.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.625, 7.125, 6.75, 7 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.75, 6.875, 6.625, 7 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.625, 6.75, 6.75, 6.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 6.625, 6.75, 6.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 6.5, 6.625, 6.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.1633, 2.1224, 8.3265 ],
+			"to": [ 8.326565, 2.285665, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 6.625, 6.375, 6.75, 6.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.625, 6.375, 6.75, 6.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.75, 6.125, 6.625, 6.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.625, 6, 6.75, 6.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 5.875, 6.75, 6 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 5.75, 6.625, 5.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.3265, -1.7959, 7.8367 ],
+			"to": [ 8.979561, -1.632635, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 6.125, 5.375, 6.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 6.375, 4.875, 6.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.25, 2, 5.75, 2.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.75, 1.875, 6.25, 2 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.375, 6, 6.625, 6.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.625, 5.875, 6.375, 6 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.3265, -1.6327, 8.3265 ],
+			"to": [ 8.979561, -1.469435, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 1.75, 6.25, 1.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 1.75, 6.25, 1.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.25, 1.5, 5.75, 1.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.75, 1.375, 6.25, 1.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 4.375, 6.75, 4.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 4.25, 6.625, 4.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.3265, -1.4694, 8.489799 ],
+			"to": [ 8.65303, -1.142869, 8.653065 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 5.25, 6.625, 5.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 5.25, 6.625, 5.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.25, 4.25, 6, 4.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6, 3.875, 6.25, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.25, 1, 6.375, 1.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 0.75, 6.25, 1 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.3265, -1.1429, 8.3265 ],
+			"to": [ 8.979561, -0.9796347, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 1.25, 6.25, 1.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 5.75, 1.25, 6.25, 1.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.25, 1, 5.75, 1.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.75, 0.875, 6.25, 1 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 2.625, 6.75, 2.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 2.5, 6.625, 2.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.489799, -1.1429, 8.489799 ],
+			"to": [ 8.81633, -0.9796347, 8.653065 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 4.5, 6.625, 4.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 4.5, 6.625, 4.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.625, 4.25, 6.375, 4.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.375, 4.125, 6.625, 4.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.625, 1.875, 6.75, 2 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 1.75, 6.625, 1.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.489799, 4.4082, 7.6735 ],
+			"to": [ 8.81633, 4.73473, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 4, 6.625, 4.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 4, 6.625, 3.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.25, 3.625, 6, 3.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 5.75, 0.625, 6, 0.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.25, 0.25, 6.375, 0.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 0, 6.25, 0.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.489799, 4.4082, 8.1633 ],
+			"to": [ 8.81633, 4.571465, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 3.5, 6.625, 3.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 3.5, 6.625, 3.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.625, 3.25, 6.375, 3.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.375, 3.125, 6.625, 3.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 2.25, 6.875, 2.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 2.125, 6.75, 2.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, -1.9592, 8.1633 ],
+			"to": [ 8.816365, -1.795935, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 6.75, 2, 6.875, 2.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.75, 2, 6.875, 1.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.875, 1.75, 6.75, 1.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.75, 1.625, 6.875, 1.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 1.5, 6.875, 1.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 1.375, 6.75, 1.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, -1.6327, 8 ],
+			"to": [ 9.142896, -1.469435, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 15.375, 9.375, 15.75, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 7.5, 9.375, 7.875, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 8.25, 9.25, 7.875, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 8.25, 9.25, 8.625, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 0.75, 6.875, 0.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 0.625, 6.75, 0.75 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, -1.3061, 8 ],
+			"to": [ 8.97963, -1.142835, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 2.625, 6.625, 2.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 2.625, 6.625, 2.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.625, 2.375, 6.375, 2.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.375, 2.25, 6.625, 2.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 0, 6.875, 0.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 12, 9, 11.875, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, -1.3061, 8.489799 ],
+			"to": [ 8.97963, -1.142835, 8.653065 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 2.125, 6.625, 2.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 2.125, 6.625, 2 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.625, 1.875, 6.375, 2 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.375, 1.75, 6.625, 1.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 12.5, 9, 12.625, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 12.75, 9, 12.625, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, 4.2449, 7.6735 ],
+			"to": [ 8.816365, 4.408165, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 12.75, 9, 12.875, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 12.875, 9.125, 13, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 13.125, 9, 13, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 13.125, 9, 13.25, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 13.25, 9, 13.375, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 13.5, 9, 13.375, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, 4.2449, 8.1633 ],
+			"to": [ 8.816365, 4.408165, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 9, 13.625, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 13.625, 9.125, 13.75, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 13.875, 9, 13.75, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 13.875, 9, 14, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 14, 9, 14.125, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 14.25, 9, 14.125, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, 4.5714, 8.1633 ],
+			"to": [ 9.142896, 4.89793, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 8.625, 9.25, 9, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 9, 9.375, 9.375, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 14.125, 10.25, 13.75, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 14.125, 10.25, 14.5, 10.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.5, 1.25, 6.625, 1.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.75, 1.25, 6.625, 1.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, 4.7347, 7.6735 ],
+			"to": [ 9.959223, 4.897965, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 4.625, 5.375, 4.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.375, 6.75, 5.375, 6.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 5.375, 6.75, 4.375, 6.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.375, 6.875, 5.375, 7 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 15.5, 9, 15.625, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 15.75, 9, 15.625, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, 12.5714, 7.6735 ],
+			"to": [ 8.816365, 12.73466, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 15.75, 9, 15.875, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 15.875, 9.125, 16, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7, 8.875, 6.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.875, 8.75, 7, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 8.625, 7, 8.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 8.5, 6.875, 8.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.816299, -1.6327, 7.8367 ],
+			"to": [ 8.979565, -1.469435, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 8.375, 7, 8.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.875, 8.375, 7, 8.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7, 8.125, 6.875, 8.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.875, 8, 7, 8.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 7.875, 7, 8 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 7.75, 6.875, 7.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.816299, -1.4694, 8 ],
+			"to": [ 8.979565, -1.306135, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 7.625, 7, 7.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.875, 7.625, 7, 7.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7, 7.375, 6.875, 7.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.875, 7.25, 7, 7.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 7.125, 7, 7.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 7, 6.875, 7.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.816299, 4.5714, 7.6735 ],
+			"to": [ 9.14283, 4.734665, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 0.75, 6.625, 0.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.375, 0.75, 6.625, 0.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.625, 0.5, 6.375, 0.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.375, 0.375, 6.625, 0.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 6.375, 7, 6.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 6.25, 6.875, 6.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.816299, 4.898, 7.6735 ],
+			"to": [ 9.795891, 5.061265, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 10.125, 6.5, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.5, 10.25, 7.25, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 8, 10.125, 7.25, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 8, 10.125, 8.75, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 5.625, 7, 5.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 5.5, 6.875, 5.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.816299, 4.898, 8.1633 ],
+			"to": [ 9.795891, 5.061265, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 10, 10.25, 10.75, 10.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8.75, 10.25, 9.5, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 11.75, 10.125, 11, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 11.75, 10.125, 12.5, 10.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 4.875, 7, 5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 4.75, 6.875, 4.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.816299, 5.0612, 8 ],
+			"to": [ 9.632626, 5.224465, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 13.625, 9.875, 14.25, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.75, 9.875, 11.375, 9.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 10.75, 9.75, 10.125, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 8.25, 9.75, 8.875, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 4.125, 7, 4.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 4, 6.875, 4.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.9796, -1.6327, 8.1633 ],
+			"to": [ 9.142865, -1.306169, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 3.875, 7, 4 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.875, 3.875, 7, 3.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.75, 0.125, 6.625, 0.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.75, 8.875, 6.875, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.75, 8.625, 6.875, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.875, 8.375, 6.75, 8.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.9796, 3.102, 7.6735 ],
+			"to": [ 9.142865, 3.265265, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 3.125, 7, 3.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.875, 3.125, 7, 3 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7, 2.875, 6.875, 3 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.875, 2.75, 7, 2.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 2.625, 7, 2.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 2.5, 6.875, 2.625 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.9796, 3.7551, 7.5102 ],
+			"to": [ 9.632661, 3.918365, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 7.75, 9.5, 8.25, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8.25, 9.625, 8.75, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 9.25, 9.5, 8.75, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 9.25, 9.5, 9.75, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 1.875, 7, 2 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 1.75, 6.875, 1.875 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.9796, 3.7551, 8.3265 ],
+			"to": [ 9.632661, 3.918365, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 9.75, 9.5, 10.25, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.25, 9.625, 10.75, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 11.25, 9.5, 10.75, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 11.25, 9.5, 11.75, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 1.125, 7, 1.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 1, 6.875, 1.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.9796, 5.0612, 7.6735 ],
+			"to": [ 9.30613, 5.224465, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 9.125, 9.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 9.75, 9.25, 10, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 10.25, 9.125, 10, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 10.25, 9.125, 10.5, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.875, 0.375, 7, 0.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7, 0.25, 6.875, 0.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.9796, 5.0612, 8.1633 ],
+			"to": [ 9.30613, 5.224465, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 10.5, 9.125, 10.75, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 10.75, 9.25, 11, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 11.25, 9.125, 11, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 11.25, 9.125, 11.5, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 7.25, 8.875, 7.375, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 7.5, 8.875, 7.375, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.1429, 3.9184, 7.5102 ],
+			"to": [ 9.79596, 4.081665, 7.83673 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 7.5, 5.375, 7.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 4.875, 8, 5.375, 7.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 13.25, 9.5, 12.75, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 13.25, 9.5, 13.75, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 12, 9.125, 12.25, 9.25 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 12.5, 9.125, 12.25, 9.25 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.1429, 3.9184, 8.1633 ],
+			"to": [ 9.959226, 4.081665, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 7, 9.75, 7.625, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 14.25, 10, 14.875, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 14.875, 10, 14.25, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 13, 9.875, 13.625, 10 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 8.75, 8.875, 8.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 9, 8.875, 8.875, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.1429, 3.9184, 8.3265 ],
+			"to": [ 9.79596, 4.081665, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 13.75, 9.5, 14.25, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 14.25, 9.625, 14.75, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 15.25, 9.5, 14.75, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 15.25, 9.5, 15.75, 9.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 9.5, 8.875, 9.625, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 9.75, 8.875, 9.625, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.1429, 4.7347, 8.1633 ],
+			"to": [ 9.959226, 4.897965, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 13, 10, 13.625, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 12.375, 10, 13, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 13, 10, 12.375, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 12, 9.75, 12.625, 9.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 10.25, 8.875, 10.375, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 10.5, 8.875, 10.375, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.3061, 4.0816, 7.6735 ],
+			"to": [ 9.959161, 4.244865, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 6.25, 9.375, 6.75, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.75, 9.5, 7.25, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7.75, 9.375, 7.25, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 7.75, 9.375, 8.25, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 11, 8.875, 11.125, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 11.25, 8.875, 11.125, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.3061, 4.0816, 8.1633 ],
+			"to": [ 9.959161, 4.244865, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 9.375, 8.75, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8.75, 9.5, 9.25, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 9.75, 9.375, 9.25, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 9.75, 9.375, 10.25, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 11.75, 8.875, 11.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 12, 8.875, 11.875, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.3061, 4.5714, 7.6735 ],
+			"to": [ 9.959161, 4.734665, 8.326561 ],
+			"faces": {
+				"down": { "uv": [ 0.75, 3, 1.25, 3.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 0.75, 5.875, 1.25, 5.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 10.75, 9.375, 10.25, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 10.75, 9.375, 11.25, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 11.25, 9.375, 11.75, 9.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 12.25, 9.375, 11.75, 9.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.469399, 4.0816, 7.5102 ],
+			"to": [ 9.79593, 4.734661, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 8.375, 9, 8.625, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 8.625, 9.125, 8.875, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.875, 7.5, 4.625, 8 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 4.375, 7.5, 4.625, 8 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 6.25, 8.375, 6.375, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 6.375, 7.875, 6.25, 8.375 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.469399, 4.0816, 8.3265 ],
+			"to": [ 9.79593, 4.734661, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 8.875, 9, 9.125, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 9.125, 9.125, 9.375, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 4.25, 1.25, 4, 1.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 2.75, 5.125, 3, 5.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.375, 0, 4.5, 0.5 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 4.625, 0, 4.5, 0.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.469399, 4.2449, 7.6735 ],
+			"to": [ 9.959195, 4.57143, 8.326561 ],
+			"faces": {
+				"down": { "uv": [ 3.875, 6.125, 4.25, 6.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 3.5, 5.125, 3.875, 4.625 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 6.125, 9.875, 5.75, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 6.125, 9.875, 6.5, 10.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 4.875, 9.125, 5.375, 9.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 5.375, 5.25, 4.875, 5.5 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.795899, 3.9184, 7.6735 ],
+			"to": [ 9.959165, 4.081665, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 15, 8.875, 15.125, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 15.125, 9, 15.25, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 15.375, 8.875, 15.25, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 15.375, 8.875, 15.5, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 15.5, 8.875, 15.625, 9 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 15.75, 8.875, 15.625, 9 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.9592, 4.5714, 7.8367 ],
+			"to": [ 10.12247, 4.734665, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 6.75, 3.125, 6.875, 3.375 ], "texture": "#forest_dweller_sword_atlas" },
+				"up": { "uv": [ 6.75, 3.125, 6.875, 2.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"north": { "uv": [ 7.125, 8.75, 7, 8.875 ], "texture": "#forest_dweller_sword_atlas" },
+				"south": { "uv": [ 7, 8.625, 7.125, 8.75 ], "texture": "#forest_dweller_sword_atlas" },
+				"west": { "uv": [ 11.375, 9, 11.625, 9.125 ], "texture": "#forest_dweller_sword_atlas" },
+				"east": { "uv": [ 11.875, 9, 11.625, 9.125 ], "texture": "#forest_dweller_sword_atlas" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 7.6521, 2.0869 ],
+			"scale":  [ 1.2, 1.2, 1.2 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 5.5652, 0 ],
+			"scale":  [ 1.2, 1.2, 1.2 ]
+		},
+		"gui": {
+			"scale":  [ 0.75, 0.75, 1 ]
+		},
+		"ground": {
+			"translation":  [ 0, 8.3478, 0 ],
+			"scale":  [ 1.2, 1.2, 1.2 ]
+		}
+	}
+}

@@ -1,0 +1,3446 @@
+{
+	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"wooden_bow_pulling_0": "bows/wooden_bow_pulling_0"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels",
+			"from": [ 4.5714, 8, 7.8367 ],
+			"to": [ 4.89793, 8.32653, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 8.25, 4, 8.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.75, 5.5, 4, 5.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4, 5.5, 3.75, 5.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.75, 5.75, 4, 6 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 6, 4, 6.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 6.25, 3.75, 6.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.7347, 7.0204, 8 ],
+			"to": [ 5.06123, 7.673461, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 12.625, 11.125, 12.875, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.375, 11.25, 12.625, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.25, 8.375, 2, 8.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2, 7.875, 2.25, 8.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 9.375, 2.375, 9.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.375, 10.875, 2.25, 11.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.7347, 7.1837, 7.8367 ],
+			"to": [ 5.06123, 7.673495, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 12.125, 11.125, 12.375, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 11.875, 11.25, 12.125, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3, 10.75, 2.75, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 11.125, 3, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3, 6.25, 3.125, 6.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3.125, 5.875, 3, 6.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.7347, 7.6735, 7.8367 ],
+			"to": [ 4.897965, 8.000031, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 6.625, 4.75, 6.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.625, 7.125, 4.75, 6.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.75, 7.625, 4.625, 7.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.625, 7.875, 4.75, 8.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 6.75, 4, 7 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 7, 3.75, 7.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.7347, 8.3265, 7.8367 ],
+			"to": [ 4.897965, 9.142826, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 8.125, 4.75, 8.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.625, 8.625, 4.75, 8.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2, 5.5, 1.875, 6.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 1.875, 4.875, 2, 5.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.625, 4.875, 1.875, 5.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.875, 8, 1.625, 8.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.898, 6.2041, 7.8367 ],
+			"to": [ 5.22453, 6.857161, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 7.25, 4, 7.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.75, 7.75, 4, 7.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.25, 5.375, 2, 5.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2, 4.875, 2.25, 5.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2, 4.375, 2.25, 4.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.25, 3.875, 2, 4.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.898, 6.8571, 7.8367 ],
+			"to": [ 5.061265, 7.18363, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 4.75, 9.5, 4.875, 9.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.75, 9.75, 4.875, 9.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.75, 9.125, 4.625, 9.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.625, 9.375, 4.75, 9.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.625, 9.625, 4.75, 9.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.75, 9.875, 4.625, 10.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.898, 6.8571, 8 ],
+			"to": [ 5.061265, 7.020365, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 15.625, 11, 15.75, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 15.5, 11.125, 15.625, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 15.5, 11, 15.375, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 15.25, 11, 15.375, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.125, 11, 15.25, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 15.125, 11, 15, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.898, 8.489799, 7.8367 ],
+			"to": [ 5.061265, 9.959188, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 10.125, 4.75, 10.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.625, 10.625, 4.75, 10.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.375, 7.25, 1.25, 8.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 1.75, 3.75, 1.875, 4.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 12.5, 14.875, 12.75, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 14.75, 14.875, 14.5, 16 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.0612, 5.3878, 7.8367 ],
+			"to": [ 5.38773, 6.040861, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 7.75, 4, 8 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.75, 8.25, 4, 8 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.25, 3.375, 2, 3.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2, 2.875, 2.25, 3.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2, 2.375, 2.25, 2.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.25, 1.875, 2, 2.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.0612, 6.0408, 7.8367 ],
+			"to": [ 5.224465, 6.204065, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 10.625, 4.75, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.625, 11.125, 4.75, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.5, 11, 14.375, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14.25, 11, 14.375, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 11.625, 11.125, 11.875, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 11.625, 11.125, 11.375, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.0612, 9.3061, 7.8367 ],
+			"to": [ 5.224465, 10.61222, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 0, 4.625, 0.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 0.5, 4.625, 0.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.125, 0.875, 2, 1.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.125, 0.875, 2.25, 1.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.375, 6.875, 1.625, 7.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.625, 3.875, 1.375, 4.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.2245, 4.5714, 7.8367 ],
+			"to": [ 5.55103, 5.224461, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 8.5, 4, 8.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.75, 9, 4, 8.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.25, 0.375, 2, 0.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.375, 12.625, 2.625, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.375, 11.625, 2.625, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.625, 10.125, 2.375, 10.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.2245, 5.2245, 7.8367 ],
+			"to": [ 5.387765, 5.387765, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 0.5, 4.625, 0.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 1, 4.625, 0.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 13.5, 11, 13.375, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 13.25, 11, 13.375, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 11.125, 11.125, 11.375, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 11.125, 11.125, 10.875, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.2245, 10.1224, 7.8367 ],
+			"to": [ 5.387765, 11.42852, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 1, 4.625, 1.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 1.5, 4.625, 1.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.625, 10.625, 2.5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.5, 9.125, 2.625, 10.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 14.75, 15, 15, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 15.25, 15, 15, 16 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.3878, 3.7551, 7.8367 ],
+			"to": [ 5.71433, 4.408161, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 9, 4, 9.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.75, 9.5, 4, 9.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.625, 8.625, 2.375, 9.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.375, 8.125, 2.625, 8.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.375, 6.625, 2.625, 7.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.625, 6.125, 2.375, 6.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.3878, 4.4082, 7.8367 ],
+			"to": [ 5.551065, 4.571465, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 1.5, 4.625, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 2, 4.625, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.5, 11, 12.375, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 12.25, 11, 12.375, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 10.625, 11.125, 10.875, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 10.625, 11.125, 10.375, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.3878, 10.9388, 7.8367 ],
+			"to": [ 5.551065, 12.24492, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 2, 4.625, 2.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 2.5, 4.625, 2.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.5, 5.125, 2.375, 6.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2, 9.875, 2.125, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.375, 5.875, 1.625, 6.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.625, 7.875, 1.375, 8.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.551, 2.9388, 7.8367 ],
+			"to": [ 5.87753, 3.591861, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 9.5, 4, 9.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.75, 10, 4, 9.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.625, 2.625, 2.375, 3.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14.25, 15.125, 14.5, 15.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2, 12.875, 2.25, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.25, 12.375, 2, 12.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.551, 3.5918, 7.8367 ],
+			"to": [ 5.714265, 3.755065, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 2.5, 4.625, 2.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 3, 4.625, 2.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 11.25, 11, 11.125, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11, 11, 11.125, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 10.125, 11.125, 10.375, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 10.125, 11.125, 9.875, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.551, 11.7551, 7.8367 ],
+			"to": [ 5.714265, 13.06122, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 3, 4.625, 3.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 3.5, 4.625, 3.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.375, 1.75, 1.25, 2.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 1.25, 0.75, 1.375, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.5, 15, 15.75, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 16, 15, 15.75, 16 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.7143, 2.1224, 7.8367 ],
+			"to": [ 6.04083, 2.775461, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 10, 4, 10.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.75, 10.5, 4, 10.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.625, 12.125, 2.375, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2, 11.875, 2.25, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2, 11.375, 2.25, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.25, 10.875, 2, 11.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.7143, 2.7755, 7.8367 ],
+			"to": [ 5.877565, 2.938765, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 3.5, 4.625, 3.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 4, 4.625, 3.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 10, 11, 9.875, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.75, 11, 9.875, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 9.125, 11.125, 9.375, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 2.25, 3.75, 2.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.7143, 12.5714, 7.8367 ],
+			"to": [ 5.877565, 13.87752, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 9, 4.625, 9.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 10, 4.625, 9.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.5, 9.125, 2.375, 10.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 1.875, 0.375, 2, 1.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.375, 9.875, 1.625, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.625, 8.875, 1.375, 9.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.8776, 1.3061, 7.8367 ],
+			"to": [ 6.20413, 1.959161, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 10.5, 4, 10.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.75, 11, 4, 10.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.375, 10.375, 2.125, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.125, 9.875, 2.375, 10.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2, 9.375, 2.25, 9.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.25, 8.875, 2, 9.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.8776, 1.9592, 7.8367 ],
+			"to": [ 6.040865, 2.122465, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 7.75, 4.625, 8 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 8.25, 4.625, 8 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 9.25, 11, 9.125, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9, 11, 9.125, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.75, 14.875, 16, 15 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 15.75, 14.875, 15.5, 15 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.8776, 13.2245, 7.8367 ],
+			"to": [ 6.040865, 14.69389, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 4.25, 4.625, 4.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 5.25, 4.625, 5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.875, 1.375, 1.75, 2.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 1.875, 1.375, 2, 2.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 13, 14.875, 13.25, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 13, 14.875, 12.75, 16 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.0408, 0.4898, 7.8367 ],
+			"to": [ 6.36733, 1.142861, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 11, 4, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.75, 11.5, 4, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.25, 7.375, 2, 7.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2, 6.875, 2.25, 7.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2, 6.375, 2.25, 6.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.25, 5.875, 2, 6.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.0408, 1.1429, 7.8367 ],
+			"to": [ 6.204065, 1.306165, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 5.25, 4.625, 5.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 5.75, 4.625, 5.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 9, 11, 8.875, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 8.75, 11, 8.875, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 12.125, 11.25, 12.375, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 11.625, 11.25, 11.375, 11.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.0408, 14.0408, 7.8367 ],
+			"to": [ 6.204065, 15.51019, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 10, 4.625, 10.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 10.5, 4.625, 10.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.75, 0.25, 1.625, 1.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 1.875, 2.5, 2, 3.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 13.5, 14.875, 13.75, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 13.5, 14.875, 13.25, 16 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, -1.9592, 7.8367 ],
+			"to": [ 6.693895, -1.142873, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 2.75, 3.25, 3.125, 3.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 2.75, 3.75, 3.125, 3.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2, 12.875, 1.625, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 1.625, 13.5, 2, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.625, 5.5, 1.875, 6.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.875, 7.375, 1.625, 8 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, -0.6531, 7.8367 ],
+			"to": [ 7.020426, -0.4898347, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 5.125, 13.875, 5.75, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 5.75, 14.125, 6.375, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 0.25, 3.125, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 0.125, 3.75, 0.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 0, 4, 0.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 2.125, 3.75, 2.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, -0.3265, 7.8367 ],
+			"to": [ 7.346957, -0.1632347, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 8, 14.625, 8.875, 14.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 2.125, 14.375, 3, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.125, 12.875, 5.25, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6.125, 12.875, 7, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 2.5, 4, 2.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 13.625, 11.125, 13.375, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, -0.1633, 7.8367 ],
+			"to": [ 6.53063, 0.3264959, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 2.75, 1.125, 3, 1.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 2.75, 1.625, 3, 1.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3, 4.25, 2.75, 4.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 4.625, 3, 5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.75, 5.25, 3, 5.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3, 5.875, 2.75, 6.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 0.3265, 7.8367 ],
+			"to": [ 6.367365, 0.4897653, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 2.75, 3.875, 3 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.875, 3.5, 4, 3.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 8, 11, 7.875, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 7.75, 11, 7.875, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.25, 14.875, 15.5, 15 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 15.25, 14.875, 15, 15 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 14.8571, 7.8367 ],
+			"to": [ 6.367365, 16.16322, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 3.75, 3.875, 4 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3, 1.125, 3.125, 0.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.5, 4.125, 2.375, 5.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.5, 5.125, 2.625, 6.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.375, 4.875, 1.625, 5.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.625, 2.875, 1.375, 3.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.2041, 17.3061, 7.8367 ],
+			"to": [ 6.693895, 17.95916, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 2.75, 2.75, 3.125, 3 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 2.75, 3.25, 3.125, 3 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6, 14.125, 5.625, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 5.25, 14.125, 5.625, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.375, 7.125, 2.625, 7.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.625, 7.625, 2.375, 8.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.3673, -1.1429, 7.8367 ],
+			"to": [ 7.020361, -0.6531041, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 13.125, 5.375, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.375, 13.375, 4.875, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.125, 14.875, 5.625, 15.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11, 14.25, 11.5, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.75, 7, 3, 7.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3, 7.375, 2.75, 7.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.3673, -0.8163, 7.6735 ],
+			"to": [ 6.857096, -0.4897694, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 12.75, 11.375, 13.125, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.625, 11.5, 15, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.125, 7.75, 2.75, 8 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 8, 3.125, 8.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.875, 14.625, 16, 14.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.625, 4, 4.5, 4.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.3673, -0.8163, 8.1633 ],
+			"to": [ 7.020361, -0.6530347, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 6.625, 4.5, 6.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 6.875, 4.5, 6.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.5, 6.875, 4, 7 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 7.75, 4.5, 7.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 7.625, 11, 7.75, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 7.625, 11, 7.5, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.3673, -0.6531, 8.1633 ],
+			"to": [ 6.857096, -0.4898347, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 15, 11.375, 15.375, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 15.375, 11.5, 15.75, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.875, 11.25, 4.5, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.875, 11.25, 5.25, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.625, 0, 4.75, 0.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 16, 11.125, 15.875, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.3673, -0.4898, 7.8367 ],
+			"to": [ 7.183627, -0.3265347, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.875, 13.875, 4.5, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.25, 14.125, 3.875, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 8.125, 12, 7.5, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 8.125, 12, 8.75, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 6.375, 11.125, 6.625, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 14.625, 11.25, 14.375, 11.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.3673, 15.6735, 7.8367 ],
+			"to": [ 6.530565, 17.30615, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 6.75, 4.625, 7 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 7.75, 4.625, 7.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.875, 6.125, 1.75, 7.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 1.25, 10.75, 1.375, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.125, 4.25, 1.375, 5.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.375, 2.875, 1.125, 4.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, -0.9796, 7.6735 ],
+			"to": [ 7.020396, -0.8163347, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 5.25, 11.25, 5.625, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 5.625, 11.375, 6, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.375, 11.25, 6, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6.375, 11.25, 6.75, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 0.125, 4.5, 0.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 0.5, 4.375, 0.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, -0.9796, 8.1633 ],
+			"to": [ 7.020396, -0.8163347, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 6.75, 11.25, 7.125, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 7.125, 11.375, 7.5, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7.875, 11.25, 7.5, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 7.875, 11.25, 8.25, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 0.625, 4.5, 0.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 0.75, 4.375, 0.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, -0.8163, 7.5102 ],
+			"to": [ 6.693865, -0.6530347, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 0.875, 4.5, 1 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.375, 1.125, 4.5, 1 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.5, 1.125, 4.375, 1.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.375, 1.25, 4.5, 1.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 1.375, 4.5, 1.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 1.5, 4.375, 1.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, -0.8163, 8.3265 ],
+			"to": [ 6.693865, -0.6530347, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 1.625, 4.5, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.375, 1.875, 4.5, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.875, 7.125, 4.75, 7.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.375, 1.875, 4.5, 2 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 2, 4.5, 2.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 2.125, 4.375, 2.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, 16.3265, 7.8367 ],
+			"to": [ 7.346927, 16.48977, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 12, 13.125, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 13.125, 12.125, 13.75, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.375, 12, 13.75, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14.375, 12, 15, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 2.25, 4.5, 2.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 2.375, 4.375, 2.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, 16.3265, 8 ],
+			"to": [ 7.183661, 17.14283, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 4, 9.75, 4.5, 9.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 10, 4.5, 9.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 10.75, 15.375, 10.25, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 10.75, 15.375, 11.25, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.625, 1.375, 2.75, 2 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3.125, 1.625, 3, 2.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, 16.4898, 7.8367 ],
+			"to": [ 7.183661, 17.14286, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 4, 10, 4.5, 10.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 10.25, 4.5, 10.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.25, 15.125, 13.75, 15.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 1.625, 14.125, 2.125, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 7.375, 2.375, 7.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.375, 7.875, 2.25, 8.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, 16.6531, 7.6735 ],
+			"to": [ 7.020396, 17.14289, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 11.25, 8.625, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8.625, 11.375, 9, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.375, 13.375, 2, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 15.625, 14.25, 16, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3, 5.25, 3.125, 5.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3.125, 4.625, 3, 5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, 16.6531, 8.1633 ],
+			"to": [ 7.020396, 16.97963, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 9, 11.25, 9.375, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9.375, 11.375, 9.75, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.125, 3.75, 2.75, 4 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 12.375, 3.125, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 3.25, 3.875, 3.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 3.75, 3.875, 4 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, 16.9796, 8.1633 ],
+			"to": [ 6.693865, 17.14286, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 3.125, 4.5, 3.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.375, 3.375, 4.5, 3.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.5, 3.875, 4.375, 4 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.375, 4, 4.5, 4.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 4.125, 4.5, 4.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 4.25, 4.375, 4.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.5306, 17.1429, 7.8367 ],
+			"to": [ 7.020396, 17.30617, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 2, 0.125, 2.375, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 15.375, 13.375, 15.75, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 10.125, 11.25, 9.75, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 15.625, 14.125, 16, 14.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 6.125, 11.125, 6.375, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5.625, 11.125, 5.375, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, -1.4694, 8.1633 ],
+			"to": [ 7.02043, -0.979604, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 5.125, 11.125, 5.375, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 15.625, 11.375, 15.875, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.625, 0, 1.375, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 11.75, 3, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 6.125, 14.875, 6.25, 15.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 10.25, 14.875, 10.125, 15.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, -1.4694, 8.3265 ],
+			"to": [ 7.02043, -1.142869, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 14.875, 11.25, 15.125, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.625, 11.375, 14.875, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3, 0.375, 2.75, 0.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 0.625, 3, 0.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.5, 6.25, 4.625, 6.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.625, 6.5, 4.5, 6.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, -1.3061, 8 ],
+			"to": [ 7.02043, -1.142835, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 14.125, 11.25, 14.375, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 13.875, 11.375, 14.125, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 13.875, 11.25, 13.625, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 13.375, 11.25, 13.625, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 4.875, 4.5, 5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 5, 4.375, 5.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, -0.4898, 7.6735 ],
+			"to": [ 7.02043, -4.053116E-06, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 13.125, 11.25, 13.375, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.875, 11.375, 13.125, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3, 9.375, 2.75, 9.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 9, 3, 9.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 3, 2.375, 3.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.375, 2.5, 2.25, 2.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, -0.4898, 8.1633 ],
+			"to": [ 7.02043, -4.053116E-06, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 11.125, 11.25, 11.375, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 10.875, 11.375, 11.125, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3, 8.625, 2.75, 9 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 8.25, 3, 8.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 2, 2.375, 2.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.375, 0.5, 2.25, 0.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, -0.1633, 7.8367 ],
+			"to": [ 7.346961, 0.3264959, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 8.875, 13.5, 9.375, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 2.375, 13.375, 2.875, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.75, 14.25, 12.25, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 10.5, 14.25, 11, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.75, 6.625, 3, 7 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3, 6.25, 2.75, 6.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 16, 7.8367 ],
+			"to": [ 7.510226, 16.16327, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 13.875, 10.125, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8.25, 14.125, 8.875, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.375, 12.125, 13.75, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14.375, 12.125, 15, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 10.625, 11.25, 10.875, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 10.625, 11.25, 10.375, 11.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 16.1633, 7.8367 ],
+			"to": [ 7.346961, 16.32656, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 9.375, 13.5, 9.875, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 7.125, 15.125, 7.625, 14.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.5, 11.5, 14, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11.5, 11.5, 12, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 10.125, 11.25, 10.375, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 16, 11.375, 15.75, 11.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 16.3265, 7.6735 ],
+			"to": [ 7.183696, 16.48977, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 2, 0, 2.375, 0.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 2.75, 0.125, 3.125, 0 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 16, 12.125, 15.625, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 15.625, 12, 16, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.875, 12.75, 16, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.75, 0, 2.625, 0.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 16.3265, 8.1633 ],
+			"to": [ 7.02043, 16.65303, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 0.875, 4, 1 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.75, 1.125, 4, 1 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4, 11.5, 3.75, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 0.125, 3, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 1.875, 3.875, 2.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 2.75, 3.875, 3 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 16.4898, 7.6735 ],
+			"to": [ 7.02043, 16.65306, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 2.375, 4, 2.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 1.125, 4.25, 1.375, 4.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 16, 12.625, 15.75, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 15.75, 12.875, 16, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.875, 0.25, 2, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 15.25, 10.875, 15.125, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 16.6531, 8.3265 ],
+			"to": [ 6.857165, 16.81636, 8.489765 ],
+			"faces": {
+				"down": { "uv": [ 15, 10.875, 15.125, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.625, 11, 14.75, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.375, 10.875, 14.25, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 13.125, 10.875, 13.25, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 13, 10.875, 13.125, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 12, 10.875, 11.875, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.6939, 17.1429, 7.6735 ],
+			"to": [ 7.183696, 17.46943, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 15.625, 11.875, 16, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 5.875, 4.375, 5.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.125, 12.125, 2.75, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 5.625, 3.125, 5.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 4, 3.875, 4.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 4.375, 3.875, 4.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 0, 7.6735 ],
+			"to": [ 7.346896, 0.3265306, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4, 5.625, 4.375, 5.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 5.625, 4.375, 5.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.125, 10, 2.75, 10.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 9.75, 3.125, 10 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3, 0.125, 3.125, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3.125, 0.375, 3, 0.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 0, 8.1633 ],
+			"to": [ 7.346896, 0.3265306, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 5.375, 4.375, 5.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 5.375, 4.375, 5.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.125, 11.5, 2.75, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 1.625, 0, 2, 0.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3, 1.125, 3.125, 1.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3.125, 1.375, 3, 1.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 0.3265, 7.8367 ],
+			"to": [ 7.836692, 0.4897653, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 14.375, 4.5, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8.25, 14.375, 9, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 15.125, 12.375, 14.375, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 13.625, 12.375, 14.375, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 14.75, 14.875, 15, 15 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.375, 2.75, 1.125, 2.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 15.6735, 7.8367 ],
+			"to": [ 7.836692, 15.83677, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 14.125, 12.25, 14.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.75, 14.375, 13.5, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5.25, 12.625, 4.5, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6.875, 12.5, 7.625, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 8.875, 11.125, 9.125, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 8.875, 11.125, 8.625, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 15.8367, 7.8367 ],
+			"to": [ 7.673427, 15.99996, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 12.625, 13.875, 13.25, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 15, 14.375, 15.625, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 9.25, 3.125, 9.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 9.125, 3.75, 9.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 8.375, 11.125, 8.625, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 8.375, 11.125, 8.125, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 16, 7.6735 ],
+			"to": [ 7.346896, 16.16327, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4, 5.125, 4.375, 5.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 5.125, 4.375, 5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.375, 4.875, 4, 5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 4.75, 4.375, 4.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 9, 10.875, 9.125, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 8.75, 10.875, 8.625, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 16, 8.1633 ],
+			"to": [ 7.346896, 16.16327, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 4.625, 4.375, 4.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 4.625, 4.375, 4.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.375, 4.375, 4, 4.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 4.25, 4.375, 4.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 8.5, 10.875, 8.625, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 8.5, 10.875, 8.375, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 16.1633, 7.6735 ],
+			"to": [ 7.18363, 16.32656, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 11.125, 7.625, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 7.125, 11.25, 7.375, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7.125, 11.125, 6.875, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6.625, 11.125, 6.875, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 0.875, 5, 1 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 3, 4.875, 3.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 16.1633, 8.1633 ],
+			"to": [ 7.18363, 16.32656, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 5.875, 11.125, 6.125, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 5.625, 11.25, 5.875, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5.125, 11.125, 4.875, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.625, 11.125, 4.875, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 3.375, 5, 3.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 5, 4.875, 5.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 16.9796, 8.1633 ],
+			"to": [ 7.020365, 17.14286, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 6.125, 5, 6.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.875, 7.125, 5, 7 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5, 7.125, 4.875, 7.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.875, 8.25, 5, 8.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 8.625, 5, 8.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 9.25, 4.875, 9.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 17.1429, 7.5102 ],
+			"to": [ 7.020365, 17.6327, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 9.375, 5, 9.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.875, 10.625, 5, 10.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.125, 11.75, 3, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3, 11.125, 3.125, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3, 10.75, 3.125, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3.125, 9.375, 3, 9.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.8571, 17.4694, 7.6735 ],
+			"to": [ 7.020365, 17.63267, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.75, 1.125, 4.875, 1.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.75, 2.875, 4.875, 2.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.875, 2.875, 4.75, 3 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.75, 3.125, 4.875, 3.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 3.5, 4.875, 3.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 6.25, 4.75, 6.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, -0.9796, 7.8367 ],
+			"to": [ 7.183665, -0.8163347, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 9.25, 4.625, 9.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 9.75, 4.625, 9.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.875, 6.375, 4.75, 6.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.75, 7, 4.875, 7.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 11.875, 11.25, 12.125, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 11.875, 11.25, 11.625, 11.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, -0.8163, 8 ],
+			"to": [ 7.183665, -0.6530347, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 4.75, 8, 4.875, 8.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.75, 8.25, 4.875, 8.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.875, 8.25, 4.75, 8.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.75, 8.375, 4.875, 8.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 8.75, 4.875, 8.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 8.875, 4.75, 9 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, -0.3265, 7.6735 ],
+			"to": [ 7.183665, 3.060699E-05, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.75, 9, 4.875, 9.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.75, 9.25, 4.875, 9.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.875, 0.125, 3.75, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.875, 0.375, 4, 0.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 0.375, 3.875, 0.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 1.125, 3.875, 1.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, -0.3265, 8.1633 ],
+			"to": [ 7.183665, 3.060699E-05, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.75, 9.75, 4.875, 9.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.75, 10, 4.875, 9.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.875, 1.125, 3.75, 1.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.875, 1.625, 4, 1.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 1.625, 3.875, 1.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 1.875, 3.875, 2.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 0.3265, 7.6735 ],
+			"to": [ 7.673461, 0.4897653, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4, 6.5, 4.5, 6.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 6.5, 4.5, 6.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.5, 6.25, 4, 6.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 6.125, 4.5, 6.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.875, 11, 16, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 15.875, 11, 15.75, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 0.3265, 8.1633 ],
+			"to": [ 7.673461, 0.4897653, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 14.125, 12.75, 14.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9.625, 12, 10.125, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 10.625, 11.875, 10.125, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 10.625, 11.875, 11.125, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 14.625, 11, 14.75, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 14.625, 11, 14.5, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 0.4898, 7.8367 ],
+			"to": [ 7.999992, 0.6530653, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 14.375, 12.25, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9.75, 14.375, 10.5, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5.375, 12.25, 4.625, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.125, 12.25, 9.875, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 2.625, 4, 2.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 16, 11.75, 15.75, 11.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 15.5102, 7.8367 ],
+			"to": [ 7.999992, 15.67346, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 9, 14.125, 9.75, 14.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8.25, 14.625, 9, 14.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.875, 12.25, 12.125, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 12.875, 12.25, 13.625, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.75, 13, 16, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2, 3.625, 1.75, 3.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 15.6735, 7.6735 ],
+			"to": [ 7.673461, 15.83677, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.25, 11.75, 4.75, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.75, 11.875, 5.25, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5.75, 11.75, 5.25, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 5.75, 11.75, 6.25, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 13.875, 11, 14, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 13.875, 11, 13.75, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 15.6735, 8.1633 ],
+			"to": [ 7.673461, 15.83677, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 6.75, 11.75, 7.25, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 7.25, 11.875, 7.75, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 8.25, 11.75, 7.75, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 8.25, 11.75, 8.75, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 13.125, 11, 13.25, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 13.125, 11, 13, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 15.8367, 7.6735 ],
+			"to": [ 7.510196, 15.99996, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4, 4.125, 4.375, 4.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 4.125, 4.375, 4 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.375, 3.875, 4, 4 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 3.75, 4.375, 3.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 12.875, 11, 13, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 12.875, 11, 12.75, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 15.8367, 8.1633 ],
+			"to": [ 7.510196, 15.99996, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 3.625, 4.375, 3.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 3.625, 4.375, 3.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.375, 3.375, 4, 3.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 3.25, 4.375, 3.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 12.125, 11, 12.25, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 12.125, 11, 12, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.0204, 17.3061, 7.5102 ],
+			"to": [ 7.183665, 17.46936, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 11.875, 11, 12, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 11.75, 11.125, 11.875, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 11, 11, 10.875, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 10.75, 11, 10.875, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 10.625, 11, 10.75, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 10.625, 11, 10.5, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 0.4898, 7.6735 ],
+			"to": [ 7.673495, 0.6530653, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4, 3.125, 4.375, 3.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 3.125, 4.375, 3 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.375, 2.875, 4, 3 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 2.75, 4.375, 2.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 10.125, 11, 10.25, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 10.125, 11, 10, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 0.4898, 8.1633 ],
+			"to": [ 7.673495, 0.6530653, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 2.625, 4.375, 2.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 2.625, 4.375, 2.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.375, 2.375, 4, 2.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 2.25, 4.375, 2.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 9.625, 11, 9.75, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 9.625, 11, 9.5, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 0.6531, 7.8367 ],
+			"to": [ 8.163292, 0.8163652, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 6, 14.125, 6.75, 14.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 6, 14.625, 6.75, 14.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 8.25, 12.625, 7.5, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 10.5, 12.625, 11.25, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 7.25, 11, 7.5, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 7.25, 11, 7, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 15.3469, 7.8367 ],
+			"to": [ 8.000026, 15.51017, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 12, 13.875, 12.625, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 10.75, 14.125, 11.375, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 3.5, 3.125, 3.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 3.375, 3.75, 3.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 6.75, 11, 7, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 6.75, 11, 6.5, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 15.5102, 7.6735 ],
+			"to": [ 7.836761, 15.67346, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 14, 11.625, 14.5, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.5, 11.75, 15, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 15.5, 11.625, 15, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 15.5, 11.625, 16, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 12.375, 10.875, 12.5, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 12.375, 10.875, 12.25, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.1837, 15.5102, 8.1633 ],
+			"to": [ 7.836761, 15.67346, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 5, 11.5, 5.5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 5.5, 11.625, 6, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.5, 11.5, 6, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6.5, 11.5, 7, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 12.125, 10.875, 12.25, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 12.125, 10.875, 12, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 0, 7.8367 ],
+			"to": [ 7.510165, 0.3265306, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 0.875, 4.75, 1.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.625, 1.375, 4.75, 1.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.75, 1.375, 4.625, 1.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.625, 1.625, 4.75, 1.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.75, 0.875, 3, 1.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 6.5, 3.75, 6.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 0.1633, 7.6735 ],
+			"to": [ 7.510165, 0.3265653, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 10.875, 10.25, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 10, 11, 10.125, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 10, 10.875, 9.875, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.75, 10.875, 9.875, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 0.5, 5, 0.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 0.625, 4.875, 0.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 0.1633, 8.1633 ],
+			"to": [ 7.510165, 0.3265653, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 1, 5, 1.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.875, 1.25, 5, 1.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5, 1.5, 4.875, 1.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.875, 1.625, 5, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 1.75, 5, 1.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 1.875, 4.875, 2 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 0.6531, 7.6735 ],
+			"to": [ 7.999961, 0.8163652, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 12, 11.5, 12.5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.5, 11.625, 13, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 13.5, 11.5, 13, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 13.5, 11.5, 14, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 2.25, 5, 2.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 2.375, 4.875, 2.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 0.6531, 8.1633 ],
+			"to": [ 7.999961, 0.8163652, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 15, 11.5, 15.5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 15.5, 11.625, 16, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.5, 11.375, 4, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 11.25, 4.5, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 2.5, 5, 2.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 2.625, 4.875, 2.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 0.8163, 7.8367 ],
+			"to": [ 8.326492, 0.9795653, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 9.75, 14.375, 10.5, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9, 14.625, 9.75, 14.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 11.375, 12.25, 10.625, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11.375, 12.25, 12.125, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 6.25, 11, 6.5, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 6.25, 11, 6, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 15.1837, 7.8367 ],
+			"to": [ 8.326492, 15.34696, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 14.375, 8.25, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 6.75, 14.375, 7.5, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.375, 12.25, 13.625, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14.375, 12.25, 15.125, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 5.75, 11, 6, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5.75, 11, 5.5, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 15.1837, 8.1633 ],
+			"to": [ 8.163226, 15.34696, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 12, 5, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 5, 12.125, 5.625, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.25, 12, 5.625, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 7.5, 11.875, 8.125, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 4, 5, 4.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 4.125, 4.875, 4.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 15.3469, 7.6735 ],
+			"to": [ 7.836696, 15.51017, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4, 2.125, 4.375, 2.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 2.125, 4.375, 2 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.375, 1.875, 4, 2 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 1.75, 4.375, 1.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 4.25, 5, 4.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 4.375, 4.875, 4.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.3469, 15.3469, 8.1633 ],
+			"to": [ 7.999961, 15.51017, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 7.375, 4.5, 7.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 7.375, 4.5, 7.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.5, 7.125, 4, 7.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 7, 4.5, 7.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 4.75, 5, 4.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 4.875, 4.875, 5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 0.1633, 7.8367 ],
+			"to": [ 7.673465, 0.3265653, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 4.375, 4.75, 4.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.625, 4.875, 4.75, 4.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5, 6.5, 4.875, 6.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.875, 6.625, 5, 6.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 5.25, 11, 5.5, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5.25, 11, 5, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 0.8163, 7.6735 ],
+			"to": [ 8.163261, 0.9795653, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4, 6, 4.5, 6.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 6, 4.5, 5.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 11, 14.125, 10.5, 14.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11, 14.125, 11.5, 14.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 7.5, 5, 7.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 7.625, 4.875, 7.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 0.8163, 8.1633 ],
+			"to": [ 8.163261, 0.9795653, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 15.5, 13.75, 16, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8.125, 12, 8.625, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 9.125, 11.875, 8.625, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.125, 11.875, 9.625, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 7.75, 5, 7.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 7.875, 4.875, 8 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 0.9796, 7.8367 ],
+			"to": [ 8.653057, 1.142865, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 12.375, 14.625, 13.25, 14.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 15, 14.875, 15.875, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 11, 13.25, 10.125, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 10.125, 13.125, 11, 13.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 11, 5, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 15.875, 11.125, 15.625, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 15.0204, 7.8367 ],
+			"to": [ 8.653057, 15.18367, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 2.125, 14.375, 3, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.625, 14.875, 4.5, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.75, 13.125, 11.875, 13.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 12.75, 13.25, 13.625, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.375, 11.125, 15.625, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 15.375, 11.125, 15.125, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 15.0204, 8.1633 ],
+			"to": [ 8.489792, 15.18367, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 9, 12.625, 9.75, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9.75, 12.75, 10.5, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 10.625, 12.125, 9.875, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11.25, 12.625, 12, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 9, 5, 9.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 9.125, 4.875, 9.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5102, 15.1837, 7.6735 ],
+			"to": [ 7.83673, 15.34696, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 14.875, 11.125, 15.125, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.625, 11.25, 14.875, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.625, 11.125, 14.375, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14.125, 11.125, 14.375, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 10.75, 5, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 10.875, 4.875, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.6735, 14.8571, 8 ],
+			"to": [ 8.979622, 15.02036, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 12.875, 13.5, 13.875, 13.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.875, 13.75, 13.875, 13.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.875, 13.5, 5.875, 13.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 5.875, 13.625, 6.875, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 2.25, 4.875, 2.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 2.375, 4.75, 2.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 0.9796, 7.6735 ],
+			"to": [ 8.326496, 1.142865, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4, 1.625, 4.375, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 1.625, 4.375, 1.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.375, 1.375, 4, 1.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 1.25, 4.375, 1.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 2.5, 4.875, 2.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 2.625, 4.75, 2.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 0.9796, 8.1633 ],
+			"to": [ 8.326496, 1.142865, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 1.125, 4.375, 1.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 1.125, 4.375, 1 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.375, 0.875, 4, 1 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 0.75, 4.375, 0.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 3, 4.875, 3.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 3.25, 4.75, 3.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 1.1429, 7.8367 ],
+			"to": [ 8.816292, 1.306165, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 3, 14.125, 3.75, 14.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 6.75, 14.625, 7.5, 14.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5.375, 12.5, 4.625, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 15.125, 12.375, 15.875, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 13.125, 11.125, 13.375, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 13.125, 11.125, 12.875, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 14.6939, 8 ],
+			"to": [ 9.306087, 14.85716, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 4.25, 13.75, 5.375, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 13.875, 4.25, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.5, 13.75, 5.375, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2, 13.75, 3.125, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 3.875, 4.875, 4 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 4, 4.75, 4.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 14.8571, 7.8367 ],
+			"to": [ 8.979557, 15.02036, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 13.25, 10.125, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 11.875, 13.375, 12.75, 13.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7.875, 12.875, 7, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 7.875, 12.875, 8.75, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 4.125, 4.875, 4.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 4.25, 4.75, 4.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.8367, 14.8571, 8.1633 ],
+			"to": [ 8.653027, 15.02036, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 3.75, 11.875, 4.375, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.375, 12, 5, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5.625, 11.875, 5, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 5.625, 11.875, 6.25, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 6.125, 4.875, 6.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 6.5, 4.75, 6.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8, 1.1429, 7.6735 ],
+			"to": [ 8.653061, 1.306165, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 9, 11.5, 9.5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.5, 11.75, 13, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.5, 11.625, 12, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.75, 11.75, 4.25, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 6.625, 4.875, 6.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 6.75, 4.75, 6.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8, 1.1429, 8.1633 ],
+			"to": [ 8.653061, 1.306165, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 9.5, 4.5, 9.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 11, 11.625, 11.5, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 11, 11.5, 10.5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 10.25, 11.75, 10.75, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 7.375, 4.875, 7.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 11.75, 11, 11.625, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8, 1.3061, 7.8367 ],
+			"to": [ 9.142857, 1.469365, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 10.625, 12.75, 11.5, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 13.25, 12.875, 14.125, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 15, 12.75, 14.125, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 15, 12.75, 15.875, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 11.5, 11, 11.625, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 9.5, 11, 9.375, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8, 1.3061, 8 ],
+			"to": [ 8.979591, 1.469365, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 12.25, 7.625, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9.875, 12.375, 10.625, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5.375, 12.125, 4.625, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 8.375, 12.125, 9.125, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 8.5, 11, 8.625, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 0.25, 4.375, 0.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8, 14.6939, 7.8367 ],
+			"to": [ 9.306123, 14.85716, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 9.875, 13.625, 10.875, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.875, 13.625, 15.875, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 8.375, 13.375, 7.375, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6.5, 13.75, 7.5, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 0.375, 4.5, 0.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 2.75, 4.375, 2.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8, 15.3469, 8 ],
+			"to": [ 8.163265, 15.51017, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 3.375, 4.5, 3.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.375, 3.625, 4.5, 3.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.5, 5.375, 4.375, 5.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.375, 5.5, 4.5, 5.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 9.75, 5, 9.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 9.875, 4.875, 10 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.1633, 1.3061, 7.6735 ],
+			"to": [ 8.81636, 1.469365, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 13.25, 11.75, 13.75, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.75, 11.875, 15.25, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 15.75, 11.75, 15.25, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 5, 11.625, 5.5, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 10, 5, 10.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 10.125, 4.875, 10.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.1633, 1.3061, 8.1633 ],
+			"to": [ 8.81636, 1.469365, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 11.625, 8, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8, 11.75, 8.5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 9, 11.625, 8.5, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 8.125, 4.5, 8.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 1.75, 4.875, 1.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 1.875, 4.75, 2 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.1633, 1.4694, 7.8367 ],
+			"to": [ 9.469422, 1.632665, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 13.25, 7.375, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.875, 13.625, 5.875, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.875, 13.5, 2.875, 13.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.875, 13.625, 3.875, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 4.625, 4.875, 4.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 4.75, 4.75, 4.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.1633, 1.4694, 8 ],
+			"to": [ 9.306156, 1.632665, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 13.625, 13.125, 14.5, 13.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.5, 13.375, 15.375, 13.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 15.375, 13.125, 14.5, 13.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.625, 13, 3.5, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 5, 4.875, 5.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 4.875, 4.75, 5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.1633, 14.5306, 8 ],
+			"to": [ 9.632688, 14.69386, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 13.25, 14, 14.375, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.375, 14, 15.5, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.375, 13.875, 13.25, 14 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14.375, 14, 15.5, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 1.625, 4.875, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 1.5, 4.75, 1.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.1633, 14.6939, 8.1633 ],
+			"to": [ 8.979626, 14.85716, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 4.125, 3.75, 4.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 4.375, 3.75, 4.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 4.375, 3.125, 4.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 4.5, 3.75, 4.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 5.75, 4.5, 5.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 5.625, 4.375, 5.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.3265, 1.4694, 7.6735 ],
+			"to": [ 9.142826, 1.632665, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 4.625, 3.75, 4.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 4.875, 3.75, 4.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 4.875, 3.125, 5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 5, 3.75, 5.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 3, 4.5, 3.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 2.875, 4.375, 3 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.3265, 1.6327, 7.8367 ],
+			"to": [ 9.632623, 1.795965, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 13.625, 5.875, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 10.875, 13.625, 11.875, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 9.375, 13.375, 8.375, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11.375, 13.375, 12.375, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 8.625, 11, 8.75, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 9.375, 11, 9.25, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.3265, 14.5306, 7.8367 ],
+			"to": [ 9.632623, 14.69386, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 13.75, 10.5, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.875, 13.75, 15.875, 13.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7.375, 13.125, 6.375, 13.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 8.5, 13.75, 9.5, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 7.25, 4.875, 7.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 6.875, 4.75, 7 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.3265, 14.5306, 8.1633 ],
+			"to": [ 9.306091, 14.69386, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 11.375, 12.375, 12.125, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9.125, 12.5, 9.875, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6, 12.625, 5.25, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 7.625, 12.25, 8.375, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 6, 4.875, 6.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 5.875, 4.75, 6 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.3265, 15.1837, 8 ],
+			"to": [ 8.489765, 15.34696, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 4.75, 5.75, 4.875, 5.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.75, 5.75, 4.875, 5.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.875, 5.5, 4.75, 5.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.75, 5.375, 4.875, 5.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 5.25, 4.875, 5.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 5.125, 4.75, 5.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.489799, 1.4694, 8.1633 ],
+			"to": [ 8.979595, 1.632665, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 0.5, 4.375, 0.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 0.5, 4.375, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.375, 0.25, 4, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 0.125, 4.375, 0.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 4.5, 4.875, 4.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 4.375, 4.75, 4.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.489799, 1.6327, 8 ],
+			"to": [ 9.469391, 1.795965, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 8.375, 12.25, 9.125, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.875, 12.5, 13.625, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.875, 12.375, 12.125, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 10.625, 12.375, 11.375, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 3.75, 4.875, 3.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 3.625, 4.75, 3.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.489799, 14.3673, 7.8367 ],
+			"to": [ 9.795922, 14.53057, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 2.625, 14.625, 3.625, 14.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 1.625, 14.875, 2.625, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.5, 13.75, 11.5, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 12.5, 13.75, 13.5, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 13.625, 11.125, 13.875, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 14.125, 11.125, 13.875, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.489799, 14.5306, 7.6735 ],
+			"to": [ 9.306126, 14.69386, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 9.625, 3.75, 9.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 9.875, 3.75, 9.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 10.375, 3.125, 10.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 10.5, 3.75, 10.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 2.125, 4.875, 2.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 2, 4.75, 2.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.489799, 14.6939, 7.6735 ],
+			"to": [ 8.979595, 14.85716, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 11.375, 5.25, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 5.25, 11.5, 5.625, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6, 11.375, 5.625, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6, 11.375, 6.375, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 1.375, 4.875, 1.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 1.25, 4.75, 1.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.489799, 14.8571, 7.6735 ],
+			"to": [ 8.653065, 15.02036, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.75, 0.625, 4.875, 0.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.75, 0.625, 4.875, 0.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.875, 0.375, 4.75, 0.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.75, 0.25, 4.875, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 0.125, 4.875, 0.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 0, 4.75, 0.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, 1.6327, 7.6735 ],
+			"to": [ 9.469426, 1.795965, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 11.125, 3.75, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 11.375, 3.75, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 11.375, 3.125, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 11.5, 3.75, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 10.375, 5, 10.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 10.25, 4.875, 10.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, 1.6327, 8.1633 ],
+			"to": [ 9.142896, 1.795965, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 11.375, 6.75, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 6.75, 11.5, 7.125, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7.5, 11.375, 7.125, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 7.5, 11.375, 7.875, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 9.625, 5, 9.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 9.5, 4.875, 9.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, 1.7959, 7.8367 ],
+			"to": [ 9.959223, 1.959165, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 2.375, 13.375, 3.375, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.375, 13.5, 4.375, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7.375, 13.375, 6.375, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.375, 13.375, 10.375, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 8.875, 5, 9 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 8.75, 4.875, 8.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, 1.7959, 8 ],
+			"to": [ 9.795958, 1.959165, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 13.625, 13.25, 14.5, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.75, 13.25, 13.625, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 11.875, 13.125, 11, 13.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11, 13.25, 11.875, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 8.125, 5, 8.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 8, 4.875, 8.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, 14.2041, 8 ],
+			"to": [ 9.959223, 14.36736, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 10.375, 13.375, 11.375, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.375, 13.5, 13.375, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.375, 13.375, 13.375, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14.375, 13.375, 15.375, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 7.375, 5, 7.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 7.25, 4.875, 7.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.6531, 14.3673, 8.1633 ],
+			"to": [ 9.632692, 14.53057, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 7.625, 12.125, 8.375, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 6.875, 12.25, 7.625, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.875, 12.125, 6.125, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 5.375, 12.125, 6.125, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 6.375, 5, 6.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 6.25, 4.875, 6.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.816299, 1.7959, 7.6735 ],
+			"to": [ 9.632626, 1.959165, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 11.875, 12, 12.5, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 11.25, 12.125, 11.875, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 10, 12, 9.375, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 8.75, 12, 9.375, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 4.625, 5, 4.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 4.5, 4.875, 4.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.816299, 1.7959, 8.1633 ],
+			"to": [ 9.46936, 1.959165, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 7.5, 4.5, 7.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 7.75, 4.5, 7.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.5, 8.25, 4, 8.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 8.375, 4.5, 8.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 3.875, 5, 4 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 3.75, 4.875, 3.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.816299, 1.9592, 7.8367 ],
+			"to": [ 10.12242, 2.122465, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 3.875, 13.625, 4.875, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.875, 13.625, 4.875, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 8.875, 13.625, 7.875, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 7.875, 13.5, 8.875, 13.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 2.875, 5, 3 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 2.75, 4.875, 2.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.816299, 1.9592, 8 ],
+			"to": [ 9.959156, 2.122465, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 8.375, 13.125, 9.25, 13.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8.375, 13.375, 9.25, 13.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7.125, 14.875, 6.25, 15 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.625, 12.625, 4.5, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 2.125, 5, 2.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 2, 4.875, 2.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.816299, 14.2041, 7.8367 ],
+			"to": [ 10.12242, 14.36736, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 13.875, 13.625, 14.875, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 13.875, 13.625, 14.875, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 8.5, 13.75, 7.5, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 10.5, 13.75, 11.5, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 1.375, 5, 1.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 1.25, 4.875, 1.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.816299, 14.3673, 7.6735 ],
+			"to": [ 9.632626, 14.53057, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 2.625, 3.75, 2.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 2.875, 3.75, 2.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 2.875, 3.125, 3 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 3, 3.75, 3.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 0.375, 5, 0.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 0.25, 4.875, 0.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.9796, 1.9592, 7.6735 ],
+			"to": [ 9.959192, 2.122465, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 11.375, 12.5, 12.125, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 10.625, 12.625, 11.375, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 10.625, 12.5, 9.875, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.125, 12.5, 9.875, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 10.5, 10.875, 10.625, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 10.75, 10.875, 10.625, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.9796, 2.1224, 7.8367 ],
+			"to": [ 10.28572, 2.285665, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 13.75, 14.5, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.5, 13.875, 15.5, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7.875, 13.625, 6.875, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6.875, 13.5, 7.875, 13.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 11.5, 10.875, 11.625, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 11.75, 10.875, 11.625, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.9796, 14.0408, 8 ],
+			"to": [ 10.28572, 14.20407, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 9.875, 13.5, 10.875, 13.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 10.875, 13.75, 11.875, 13.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5.375, 13.375, 4.375, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 5.375, 13.375, 6.375, 13.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 12.75, 10.875, 12.875, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 13, 10.875, 12.875, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.9796, 14.2041, 8.1633 ],
+			"to": [ 9.795926, 14.36736, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 3.125, 3.75, 3.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 3.375, 3.75, 3.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 3.625, 3.125, 3.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 4, 3.75, 4.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.25, 10.875, 15.375, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 15.5, 10.875, 15.375, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.1429, 1.9592, 8.1633 ],
+			"to": [ 9.79596, 2.122465, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 11.625, 10, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9, 11.75, 9.5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7, 11.625, 6.5, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6, 11.625, 6.5, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 10.25, 11, 10.375, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 10.5, 11, 10.375, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.1429, 2.1224, 8 ],
+			"to": [ 10.28576, 2.285665, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 7.875, 13, 8.75, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8.75, 13.125, 9.625, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14, 13, 13.125, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14, 13, 14.875, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 11.25, 11, 11.375, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 11.5, 11, 11.375, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.1429, 14.0408, 7.8367 ],
+			"to": [ 10.28576, 14.20407, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 14.875, 13, 15.75, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 2.625, 13, 3.5, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.375, 12.875, 3.5, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.375, 12.875, 5.25, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 12.5, 11, 12.625, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 12.75, 11, 12.625, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.1429, 14.2041, 7.6735 ],
+			"to": [ 9.79596, 14.36736, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 11.25, 11.75, 11.75, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 10.75, 11.875, 11.25, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 9.75, 11.75, 9.25, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 8.75, 11.75, 9.25, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 13.5, 11, 13.625, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 13.75, 11, 13.625, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.3061, 2.1224, 7.6735 ],
+			"to": [ 10.12243, 2.285665, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 9.875, 3.75, 10 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 5.25, 3.75, 5.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 5.25, 3.125, 5.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 5.375, 3.75, 5.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 14, 11, 14.125, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 14.25, 11, 14.125, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.3061, 2.1224, 8.1633 ],
+			"to": [ 9.959161, 2.285665, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 13.125, 11.875, 13.625, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.625, 12, 13.125, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.125, 11.875, 11.625, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11.125, 11.875, 11.625, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 14.75, 11, 14.875, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 15, 11, 14.875, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.3061, 2.2857, 7.8367 ],
+			"to": [ 10.44896, 2.448965, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 14.625, 5.375, 14.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 5.375, 14.875, 6.25, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 11.375, 13, 10.5, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.625, 13, 10.5, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 1.5, 4, 1.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 1.375, 3.75, 1.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.3061, 13.8776, 7.8367 ],
+			"to": [ 10.44896, 14.04086, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 6.25, 14.625, 7.125, 14.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 7.125, 14.875, 8, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.25, 12.875, 11.375, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 12.25, 12.875, 13.125, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 0.75, 4, 0.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 0.625, 3.75, 0.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.3061, 14.0408, 8.1633 ],
+			"to": [ 9.959161, 14.20407, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 8.5, 4.5, 8.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 8.75, 4.5, 8.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.5, 8.75, 4, 8.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 8.875, 4.5, 9 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 9.375, 4.875, 9.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 9.25, 4.75, 9.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.469399, 2.2857, 7.6735 ],
+			"to": [ 10.28573, 2.448965, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 5.5, 3.75, 5.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 5.75, 3.75, 5.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 5.75, 3.125, 5.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 6, 3.75, 6.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 8.625, 4.875, 8.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 8.5, 4.75, 8.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.469399, 2.449, 7.8367 ],
+			"to": [ 10.61226, 2.612265, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 7.125, 12.75, 8, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8, 12.875, 8.875, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 9.75, 12.75, 8.875, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.75, 12.75, 10.625, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 7.625, 4.875, 7.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 7.5, 4.75, 7.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.469399, 13.7143, 7.8367 ],
+			"to": [ 10.61226, 13.87756, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 8.875, 14.625, 9.75, 14.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9.75, 14.875, 10.625, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.375, 12.75, 11.5, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 12.375, 12.75, 13.25, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 12.375, 11.25, 12.625, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 12.875, 11.25, 12.625, 11.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.469399, 13.8776, 7.6735 ],
+			"to": [ 10.28573, 14.04086, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 6.125, 3.75, 6.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 6.625, 3.75, 6.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 6.625, 3.125, 6.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 6.75, 3.75, 6.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 1.875, 2.375, 2 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 3.375, 4.75, 3.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.469399, 13.8776, 8.1633 ],
+			"to": [ 10.28573, 14.04086, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 6.875, 3.75, 7 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 7.375, 3.75, 7.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 7.375, 3.125, 7.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 7.5, 3.75, 7.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 1, 4.875, 1.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 10.625, 4.875, 10.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.469399, 14.0408, 7.6735 ],
+			"to": [ 10.12246, 14.20407, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 11.625, 12, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 11, 11.75, 11.5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 11, 11.625, 10.5, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 10, 11.625, 10.5, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 8.5, 5, 8.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 8.375, 4.875, 8.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.6327, 2.2857, 8.1633 ],
+			"to": [ 10.28576, 2.448965, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 7, 11.625, 7.5, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 5.5, 11.75, 6, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 13.25, 11.75, 12.75, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 12.25, 11.75, 12.75, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 6, 5, 6.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 5.125, 4.875, 5.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.6327, 2.449, 7.6735 ],
+			"to": [ 10.44903, 2.612265, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 7.625, 3.75, 7.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 8.125, 3.75, 8 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 8.125, 3.125, 8.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 8.25, 3.75, 8.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 3.25, 5, 3.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 3.125, 4.875, 3.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.6327, 2.449, 8 ],
+			"to": [ 10.61229, 2.612265, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 13.625, 12.5, 14.375, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.375, 12.625, 15.125, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 9.125, 12.375, 8.375, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.875, 12.375, 10.625, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 0.75, 5, 0.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 8.375, 10.875, 8.25, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.6327, 13.551, 7.8367 ],
+			"to": [ 10.77556, 13.71426, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 10.625, 14.625, 11.5, 14.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 11.5, 14.875, 12.375, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.625, 12.625, 2.75, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.5, 13, 4.375, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 7.625, 11.125, 7.875, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 8.125, 11.125, 7.875, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.6327, 13.7143, 7.6735 ],
+			"to": [ 10.44903, 13.87756, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 8.375, 3.75, 8.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 8.625, 3.75, 8.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 8.625, 3.125, 8.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 8.75, 3.75, 8.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 9.125, 10.875, 9.25, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 9.375, 10.875, 9.25, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.6327, 13.7143, 8.1633 ],
+			"to": [ 10.44903, 13.87756, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 8.875, 3.75, 9 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 9.125, 3.75, 9 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 9.375, 3.125, 9.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 9.5, 3.75, 9.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 9.375, 10.875, 9.5, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 10.875, 10.875, 10.75, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.795899, 2.449, 8.1633 ],
+			"to": [ 10.44896, 2.612265, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 11.5, 15, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 11.75, 11.875, 12.25, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 10.5, 11.5, 10, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 10.875, 4.5, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 10.875, 10.875, 11, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 11.375, 10.875, 11.25, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.795899, 2.6122, 7.8367 ],
+			"to": [ 10.77549, 2.775465, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 12.375, 5.375, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.875, 12.5, 4.625, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 9, 12.625, 8.25, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6.75, 12.625, 7.5, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 11.375, 10.875, 11.5, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 11.875, 10.875, 11.75, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.795899, 2.6122, 8 ],
+			"to": [ 10.61223, 2.775465, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 10, 3.75, 10.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 10.25, 3.75, 10.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 10.25, 3.125, 10.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 10.625, 3.75, 10.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 14.375, 10.875, 14.5, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 14.625, 10.875, 14.5, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.795899, 13.3878, 7.8367 ],
+			"to": [ 10.93876, 13.55106, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 6.25, 12.75, 7.125, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 5.375, 12.875, 6.25, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5.375, 12.75, 4.5, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.625, 12.75, 4.5, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 2.875, 2.375, 3 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.375, 2.375, 2.25, 2.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.795899, 13.3878, 8 ],
+			"to": [ 10.77549, 13.55106, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 12.375, 3.875, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 7.625, 12.625, 8.375, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.75, 12.625, 6, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.125, 12.125, 9.875, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 0.375, 2.375, 0.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 16, 13.625, 15.875, 13.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.795899, 13.551, 7.6735 ],
+			"to": [ 10.61223, 13.71426, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 10.75, 3.75, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 11, 3.75, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 11, 3.125, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 11.625, 3.75, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.875, 13.5, 16, 13.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.625, 3.125, 2.5, 3.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.795899, 13.551, 8.1633 ],
+			"to": [ 10.61223, 13.71426, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 11.75, 3.75, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 12, 3.75, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 12, 3.125, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 15, 12.125, 15.625, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.875, 12.5, 16, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 16, 12.375, 15.875, 12.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.9592, 2.6122, 7.6735 ],
+			"to": [ 10.61226, 2.775465, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4, 10.75, 4.5, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 9.75, 4.5, 9.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.5, 9.375, 4, 9.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 9.25, 4.5, 9.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.875, 12.25, 16, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 4.25, 3.875, 4.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.9592, 2.6122, 8.1633 ],
+			"to": [ 10.449, 2.775465, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 7.875, 11.375, 8.25, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8.25, 11.5, 8.625, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 9, 11.375, 8.625, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9, 11.375, 9.375, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 5.25, 4.5, 5.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 5.125, 4.375, 5.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.9592, 2.7755, 7.8367 ],
+			"to": [ 10.93879, 3.102031, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 7.625, 12.375, 8.375, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 6.875, 12.5, 7.625, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.25, 14.125, 13.5, 14.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14.25, 14.375, 15, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.5, 7.25, 4.625, 7.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.625, 7, 4.5, 7.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.9592, 2.7755, 8 ],
+			"to": [ 10.77553, 2.938765, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 13.125, 12.125, 13.75, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.5, 12.25, 13.125, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.5, 12.125, 11.875, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11.25, 12.125, 11.875, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 4.75, 4.5, 4.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 4.625, 4.375, 4.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.9592, 13.2245, 7.8367 ],
+			"to": [ 10.93879, 13.38776, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 14.375, 5.25, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.75, 14.375, 4.5, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.875, 12.5, 12.125, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 8.375, 12.5, 9.125, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 15.125, 11.25, 15.375, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 15.625, 11.25, 15.375, 11.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.9592, 13.3878, 7.6735 ],
+			"to": [ 10.77553, 13.55106, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 10.625, 12.125, 11.25, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 15.375, 13.5, 16, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.5, 14.875, 11.875, 15 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11.25, 14.875, 11.875, 15 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 4.5, 4.5, 4.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 4.375, 4.375, 4.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.9592, 13.3878, 8.1633 ],
+			"to": [ 10.61226, 13.55106, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 6.25, 11.75, 6.75, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9.5, 11.625, 10, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.5, 10.625, 4, 10.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4, 10.5, 4.5, 10.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 3.75, 4.5, 3.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 3.625, 4.375, 3.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 2.7755, 7.6735 ],
+			"to": [ 10.6122, 3.102031, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 9.375, 11.375, 9.75, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9.75, 11.5, 10.125, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.125, 4, 2.75, 4.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 5, 3.125, 5.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3, 0.625, 3.125, 0.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 4, 3.875, 4.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 2.7755, 8.1633 ],
+			"to": [ 10.6122, 2.938765, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 11.375, 10.5, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 0.75, 4.375, 0.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 10.875, 11.375, 10.5, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 10.875, 11.375, 11.25, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 2.625, 4.5, 2.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.5, 2.5, 4.375, 2.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 2.9388, 8 ],
+			"to": [ 10.93873, 3.265331, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 6.25, 11.875, 6.875, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 15, 12.125, 15.625, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 10.75, 13.875, 10.125, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.5, 13.875, 5.125, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 3, 3.875, 3.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 3, 3.875, 3.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 3.102, 7.8367 ],
+			"to": [ 11.10199, 3.428531, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 5.375, 12.375, 6.125, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 6.125, 12.5, 6.875, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 14.375, 3, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 13.5, 14.375, 14.25, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.875, 0.125, 4, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.625, 11, 4.5, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 8.3265, 7.8367 ],
+			"to": [ 11.26526, 8.979561, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 2.75, 12.75, 3.625, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.875, 13, 15.75, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7.125, 15.5, 6.25, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6.25, 15, 7.125, 15.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 6.875, 2.375, 7.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.375, 5.375, 2.25, 5.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 8.3265, 8 ],
+			"to": [ 11.26526, 8.816296, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 10.5, 12.875, 11.375, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9.625, 13, 10.5, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 10.25, 15.625, 9.375, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.375, 15.25, 10.25, 15.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3, 9, 3.125, 9.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3.125, 8.625, 3, 9 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 12.7347, 7.8367 ],
+			"to": [ 11.26526, 12.89796, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 13.125, 10.125, 13.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8.75, 13, 9.625, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14, 12.875, 13.125, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14, 12.875, 14.875, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.375, 0, 4.5, 0.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 16, 11.25, 15.875, 11.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 12.7347, 8 ],
+			"to": [ 11.10199, 13.06123, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 15.125, 12.5, 15.875, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.875, 12.625, 13.625, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 13.5, 14.375, 12.75, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14.25, 14.125, 15, 14.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.5, 4.75, 4.625, 5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.625, 4.5, 4.5, 4.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 12.898, 7.6735 ],
+			"to": [ 10.93873, 13.22453, 8.000031 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 13.875, 7, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 7, 14.125, 7.625, 13.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 8.25, 13.875, 7.625, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 8.875, 13.875, 9.5, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 5, 4, 5.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 16, 13.125, 15.75, 13.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 13.0612, 8 ],
+			"to": [ 10.93873, 13.22447, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 12, 7.5, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 6.25, 12.125, 6.875, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.375, 12, 3.75, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 0, 3.75, 0.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 8, 11, 8.125, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 8.25, 11, 8.125, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 13.0612, 8.1633 ],
+			"to": [ 10.77546, 13.38773, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 12.125, 11.875, 12.625, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 13.625, 12, 14.125, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.875, 13.5, 12.375, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11.875, 13.5, 12.375, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.5, 10.75, 4.625, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.625, 10.5, 4.5, 10.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.1224, 13.2245, 7.6735 ],
+			"to": [ 10.77546, 13.38776, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 14.125, 11.875, 14.625, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.625, 12, 15.125, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 15.625, 11.875, 15.125, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.75, 11.75, 10.25, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 8.25, 11, 8.375, 11.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 8.5, 11, 8.375, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 2.9388, 8.1633 ],
+			"to": [ 10.7755, 3.265331, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 11.25, 11.375, 11.625, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 11.625, 11.5, 12, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.125, 2.5, 2.75, 2.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 2.25, 3.125, 2.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.5, 6, 4.625, 6.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.625, 5.75, 4.5, 6 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 3.102, 7.6735 ],
+			"to": [ 10.93876, 3.428531, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 13.75, 11.75, 14.25, 11.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.25, 11.875, 14.75, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.875, 13.5, 2.375, 13.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 15.5, 13.875, 16, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.75, 3.5, 3.875, 3.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4, 3.5, 3.875, 3.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 3.2653, 8 ],
+			"to": [ 11.10203, 3.591831, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 0.375, 3.75, 0.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 0.625, 3.75, 0.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 15.625, 14.375, 15, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11.375, 13.875, 12, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.5, 8.75, 4.625, 9 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.625, 8.25, 4.5, 8.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 3.4286, 7.8367 ],
+			"to": [ 11.10203, 3.918396, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 0.625, 3.75, 0.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 0.875, 3.75, 0.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5, 14.875, 4.375, 15.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 5, 14.875, 5.625, 15.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3, 8.25, 3.125, 8.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3.125, 7.375, 3, 7.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 5.551, 7.8367 ],
+			"to": [ 11.42856, 5.714265, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 14.125, 14.625, 15, 14.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 13.25, 14.875, 14.125, 14.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 13.125, 13, 12.25, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11.375, 13, 12.25, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 9.375, 11.125, 9.625, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 9.875, 11.125, 9.625, 11.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 5.7143, 7.8367 ],
+			"to": [ 11.26529, 8.326545, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 14.125, 5.25, 14.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 7.5, 14.375, 8.25, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 0.75, 12, 0, 14 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0, 14, 0.75, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.375, 10.875, 1.625, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.625, 12.875, 1.375, 14.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 6.2041, 8.1633 ],
+			"to": [ 11.26529, 6.693895, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 12.125, 3.875, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.875, 12.25, 4.625, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.5, 15.625, 13.75, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 9.375, 14.875, 10.125, 15.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3, 7, 3.125, 7.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3.125, 6.625, 3, 7 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 6.6939, 8.1633 ],
+			"to": [ 11.10203, 7.673491, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 0.875, 3.75, 1 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 1.625, 3.75, 1.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5, 15.25, 4.375, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0.75, 0, 1.375, 0.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.625, 2.75, 2.75, 3.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.75, 2, 2.625, 2.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 7.1837, 7.6735 ],
+			"to": [ 11.10203, 9.959209, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 1.625, 3.75, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 2.125, 3.75, 2 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 0.625, 7.75, 0, 9.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0, 9.875, 0.625, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 0.625, 9.875, 0.75, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 0.75, 7.75, 0.625, 9.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 8, 8.1633 ],
+			"to": [ 11.10203, 9.142857, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 2.125, 3.75, 2.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 2.375, 3.75, 2.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.375, 6.375, 0.75, 7.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0.75, 5.5, 1.375, 6.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.375, 1.75, 2.5, 2.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.625, 3.25, 2.5, 4.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 8.816299, 8 ],
+			"to": [ 11.26529, 10.28569, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 12, 12.625, 12.75, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 15.125, 12.375, 15.875, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.875, 14.875, 2.125, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 1.375, 14.875, 2.125, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.75, 2.5, 1.875, 3.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.75, 2.5, 1.625, 3.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 8.9796, 7.8367 ],
+			"to": [ 11.26529, 10.44899, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 12.75, 12.625, 13.5, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 13.5, 12.75, 14.25, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.625, 14.875, 2.875, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.625, 14.875, 4.375, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.25, 8.375, 1.375, 9.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.875, 0.25, 1.75, 1.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 12.4082, 7.8367 ],
+			"to": [ 11.42856, 12.57146, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 7, 13, 7.875, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 6.125, 13.125, 7, 13 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.125, 13, 5.25, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.375, 13, 5.25, 13.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 10.125, 4.875, 10.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 10, 4.75, 10.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 12.4082, 8 ],
+			"to": [ 11.26529, 12.73473, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 14.25, 12.625, 15, 12.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 15, 12.75, 15.75, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.5, 14.875, 13.75, 15.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0, 0, 0.75, 0.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.625, 8.875, 4.75, 9.125 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.75, 8.625, 4.625, 8.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 12.5714, 7.6735 ],
+			"to": [ 11.10203, 12.89793, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 2.375, 3.75, 2.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 2.625, 3.75, 2.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.25, 13.875, 2.625, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2, 13.875, 2.625, 14.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.625, 7.375, 4.75, 7.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.75, 7.125, 4.625, 7.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 12.5714, 7.8367 ],
+			"to": [ 11.26529, 12.73466, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 12.5, 3.875, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.875, 12.625, 4.625, 12.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.125, 12.5, 5.375, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6.125, 12.5, 6.875, 12.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 7.875, 4.875, 8 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 7.75, 4.75, 7.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.2857, 12.7347, 8.1633 ],
+			"to": [ 10.93876, 13.06123, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 8, 11.5, 8.5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8.5, 11.625, 9, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 8.125, 14.875, 7.625, 15.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.875, 13.125, 3.375, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.5, 8.5, 4.625, 8.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.75, 6.375, 4.625, 6.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 3.2653, 8.1633 ],
+			"to": [ 10.9388, 3.591831, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 12, 11.375, 12.375, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.375, 11.5, 12.75, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.125, 10.5, 2.75, 10.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.75, 10.25, 3.125, 10.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.625, 6.125, 4.75, 6.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.75, 5.875, 4.625, 6.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 3.4286, 7.6735 ],
+			"to": [ 11.10206, 4.081661, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4, 11.625, 4.5, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 11.75, 5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 11.25, 14.875, 10.75, 15.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 10.25, 14.875, 10.75, 15.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 12.875, 2.375, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.375, 12.375, 2.25, 12.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 3.5918, 8 ],
+			"to": [ 11.26533, 5.550983, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 7.875, 3.75, 8 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 7.875, 3.75, 7.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.375, 14.5, 0.75, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0, 0.25, 0.625, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.625, 11.375, 1.75, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.875, 11.375, 1.75, 12.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 3.9184, 7.8367 ],
+			"to": [ 11.26533, 5.551053, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 7.125, 3.75, 7.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 7.125, 3.75, 7 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.375, 13.25, 0.75, 14.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0.75, 12, 1.375, 13.25 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.25, 9.5, 1.375, 10.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.75, 6.125, 1.625, 7.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 5.2245, 7.6735 ],
+			"to": [ 11.26533, 5.877561, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 6.375, 3.75, 6.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 6.375, 3.75, 6.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.5, 15, 11.875, 15.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 8.125, 14.875, 8.75, 15.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 11.875, 2.375, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.375, 11.375, 2.25, 11.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 5.3878, 8.1633 ],
+			"to": [ 11.26533, 6.204126, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 11.875, 7.5, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 6, 3.75, 5.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 8.75, 15.375, 8.125, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 8.75, 15.375, 9.375, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.875, 8, 2, 8.625 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2, 7.375, 1.875, 8 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 5.8776, 7.6735 ],
+			"to": [ 11.10206, 7.183722, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 13, 11.625, 13.5, 11.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 13.5, 11.75, 14, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.25, 0.75, 0.75, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0.75, 1.75, 1.25, 2.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 0.875, 2.375, 1.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.5, 10.625, 2.375, 11.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 7.6735, 8.1633 ],
+			"to": [ 11.10206, 8.000031, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 11.5, 4.5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 11.625, 5, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.875, 13.125, 3.375, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.875, 13.125, 4.375, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.625, 5.625, 4.75, 5.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.75, 5.375, 4.625, 5.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 8.816299, 7.5102 ],
+			"to": [ 10.61226, 9.959156, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 4.75, 0.875, 4.875, 1 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.75, 0.875, 4.875, 0.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.5, 0.875, 2.375, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.5, 0.875, 2.625, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.375, 0, 2.5, 0.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.625, 0, 2.5, 0.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 9.1429, 8.1633 ],
+			"to": [ 11.10206, 10.61229, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 7, 11.5, 7.5, 11.625 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 7.5, 11.625, 8, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.25, 8.375, 0.75, 9.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0.75, 7.25, 1.25, 8.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.875, 3.75, 2, 4.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.75, 1.375, 1.625, 2.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 9.9592, 7.6735 ],
+			"to": [ 11.26533, 10.93879, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 3.875, 3.75, 4 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 3.875, 3.75, 3.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.25, 15.25, 5.625, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 5, 15.25, 5.625, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.625, 4.25, 2.75, 5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.75, 3.5, 2.625, 4.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 10.2857, 8 ],
+			"to": [ 11.42859, 12.24488, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 12.25, 3.875, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.875, 12.375, 4.625, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 0.75, 1.75, 0, 3.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0, 3.25, 0.75, 4.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.875, 11.375, 2, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 0.75, 0.25, 0.625, 1.75 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 10.449, 7.8367 ],
+			"to": [ 11.42859, 12.40818, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 5.375, 12.25, 6.125, 12.375 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 6.125, 12.375, 6.875, 12.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 0.75, 4.75, 0, 6.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0, 6.25, 0.75, 7.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.375, 0.375, 1.5, 1.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.625, 0.375, 1.5, 1.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 11.9184, 7.6735 ],
+			"to": [ 11.26533, 12.57146, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 1.875, 3.75, 2 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 1.875, 3.75, 1.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 12.5, 15.5, 11.875, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 11.25, 15, 11.875, 15.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 8.875, 2.375, 9.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.375, 8.375, 2.25, 8.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 12.2449, 8 ],
+			"to": [ 11.26533, 12.40816, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 3.125, 1.375, 3.75, 1.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 3.125, 1.375, 3.75, 1.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.75, 1.125, 3.125, 1.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.125, 1, 3.75, 1.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 6.875, 5, 7 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 6.75, 4.875, 6.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.449, 12.4082, 8.1633 ],
+			"to": [ 11.10206, 12.73473, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 11.125, 4.5, 11.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 11.125, 4.5, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5.875, 13.125, 5.375, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 5.875, 13.125, 6.375, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.625, 5.125, 4.75, 5.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.75, 4.875, 4.625, 5.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.6122, 2.9388, 7.6735 ],
+			"to": [ 10.77547, 3.102065, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 5.875, 5, 6 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.875, 5.875, 5, 5.75 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5, 5.625, 4.875, 5.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.875, 5.5, 5, 5.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 5.375, 5, 5.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 5.25, 4.875, 5.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.6122, 3.5918, 8.1633 ],
+			"to": [ 11.102, 5.387718, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 0, 4.375, 0.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.5, 11.5, 4.875, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.125, 2.75, 0.75, 4.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0.75, 4.125, 1.125, 5.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.625, 10, 1.75, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.875, 10, 1.75, 11.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.6122, 4.0816, 7.6735 ],
+			"to": [ 11.26526, 5.224457, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4, 10.375, 4.5, 10.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 10.375, 4.5, 10.25 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7.625, 15.125, 7.125, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 7.625, 15.125, 8.125, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.625, 11.125, 2.75, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.75, 10.25, 2.625, 11.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.6122, 8.9796, 7.5102 ],
+			"to": [ 10.77547, 10.77552, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 3.625, 5, 3.75 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.875, 3.625, 5, 3.5 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2, 10, 1.875, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 1.625, 8.625, 1.75, 10 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.75, 8.625, 1.875, 10 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2, 8.625, 1.875, 10 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.6122, 10.6122, 8.1633 ],
+			"to": [ 11.26526, 12.24485, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 4, 9.125, 4.5, 9.25 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 9.125, 4.5, 9 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 1.25, 9.5, 0.75, 10.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 0.75, 10.75, 1.25, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.875, 6.125, 2, 7.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 1.75, 3.625, 1.625, 4.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.6122, 10.9388, 7.6735 ],
+			"to": [ 11.42853, 11.59186, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 10, 12, 10.625, 12.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 10.625, 12.125, 11.25, 12 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 11.875, 15.5, 11.25, 16 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 8.75, 14.875, 9.375, 15.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 6.375, 2.375, 6.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.375, 5.875, 2.25, 6.375 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.6122, 11.5918, 7.6735 ],
+			"to": [ 11.26526, 11.91833, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 4, 8, 4.5, 8.125 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4, 8, 4.5, 7.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7.875, 13.125, 7.375, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 7.875, 13.125, 8.375, 13.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.625, 4.125, 4.75, 4.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.75, 3.875, 4.625, 4.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.6122, 12.2449, 8.1633 ],
+			"to": [ 11.102, 12.40816, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 13.125, 11.375, 13.5, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 13.5, 11.5, 13.875, 11.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 14.25, 11.375, 13.875, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 14.25, 11.375, 14.625, 11.5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.875, 0.125, 5, 0.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5, 0, 4.875, 0.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.7755, 3.102, 8.1633 ],
+			"to": [ 10.93876, 3.265265, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 5, 10.875, 5.125, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 5.125, 11, 5.25, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 5.375, 10.875, 5.25, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 5.375, 10.875, 5.5, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 5.5, 10.875, 5.625, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 5.75, 10.875, 5.625, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.7755, 9.6327, 7.5102 ],
+			"to": [ 10.93876, 9.795965, 7.673465 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 10.875, 5.875, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 5.875, 11, 6, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.125, 10.875, 6, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6.125, 10.875, 6.25, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 6.25, 10.875, 6.375, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 6.5, 10.875, 6.375, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.9388, 3.102, 8 ],
+			"to": [ 11.10207, 3.265265, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 10.875, 6.625, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 6.625, 11, 6.75, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 6.875, 10.875, 6.75, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 6.875, 10.875, 7, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 7, 10.875, 7.125, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 7.25, 10.875, 7.125, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.9388, 3.2653, 7.6735 ],
+			"to": [ 11.10207, 3.428565, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 7.25, 10.875, 7.375, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 7.375, 11, 7.5, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 7.625, 10.875, 7.5, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 7.625, 10.875, 7.75, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 7.75, 10.875, 7.875, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 8, 10.875, 7.875, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.9388, 12.898, 7.8367 ],
+			"to": [ 11.10207, 13.22453, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 8, 10.875, 8.125, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8.125, 11, 8.25, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.75, 3.625, 4.625, 3.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.625, 3.375, 4.75, 3.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.625, 3.125, 4.75, 3.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.75, 2.875, 4.625, 3.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.102, 3.5918, 7.8367 ],
+			"to": [ 11.26526, 3.918331, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 8.75, 10.875, 8.875, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 8.875, 11, 9, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.75, 2.625, 4.625, 2.875 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.625, 2.375, 4.75, 2.625 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.625, 2.125, 4.75, 2.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.75, 1.875, 4.625, 2.125 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.102, 4.2449, 8.1633 ],
+			"to": [ 11.26526, 5.387757, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 10.875, 9.625, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 9.625, 11, 9.75, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.75, 9.375, 2.625, 10.25 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.625, 8.5, 2.75, 9.375 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.625, 7.625, 2.75, 8.5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.75, 6.75, 2.625, 7.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.102, 9.1429, 7.6735 ],
+			"to": [ 11.26526, 9.959226, 7.836765 ],
+			"faces": {
+				"down": { "uv": [ 10.25, 10.875, 10.375, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 10.375, 11, 10.5, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.75, 0.75, 2.625, 1.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.625, 0.125, 2.75, 0.75 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.75, 1.625, 2.875, 2.25 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3, 1.625, 2.875, 2.25 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.102, 9.9592, 8.1633 ],
+			"to": [ 11.26526, 10.61226, 8.326565 ],
+			"faces": {
+				"down": { "uv": [ 11, 10.875, 11.125, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 11.125, 11, 11.25, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.375, 4.875, 2.25, 5.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.25, 4.375, 2.375, 4.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.25, 3.875, 2.375, 4.375 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.375, 3.375, 2.25, 3.875 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.2653, 4.2449, 7.8367 ],
+			"to": [ 11.42857, 5.551022, 8.163231 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 0.625, 4.75, 0.875 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 4.625, 0.625, 4.75, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.625, 4.125, 2.5, 5.125 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.375, 3.125, 2.5, 4.125 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 1.375, 1.875, 1.625, 2.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 15.5, 15, 15.25, 16 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.2653, 9.3061, 7.8367 ],
+			"to": [ 11.42857, 10.44896, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 10.875, 12.625, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 12.625, 11, 12.75, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 2.75, 5.875, 2.625, 6.75 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 2.625, 5, 2.75, 5.875 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 2.625, 12, 2.75, 12.875 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 2.625, 1.75, 2.5, 2.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.2653, 9.6327, 8 ],
+			"to": [ 11.42857, 9.795965, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 13.25, 10.875, 13.375, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 13.375, 11, 13.5, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 13.625, 10.875, 13.5, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 13.625, 10.875, 13.75, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 13.75, 10.875, 13.875, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 14, 10.875, 13.875, 11 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.2653, 9.9592, 8 ],
+			"to": [ 11.42857, 10.28573, 8.163265 ],
+			"faces": {
+				"down": { "uv": [ 14, 10.875, 14.125, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.125, 11, 14.25, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 4.75, 0.125, 4.625, 0.375 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 4.75, 10.75, 4.875, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 4.75, 10.5, 4.875, 10.75 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 4.875, 10.25, 4.75, 10.5 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.4286, 10.9388, 7.8367 ],
+			"to": [ 11.59186, 11.4286, 7.999965 ],
+			"faces": {
+				"down": { "uv": [ 14.75, 10.875, 14.875, 11 ], "texture": "#wooden_bow_pulling_0" },
+				"up": { "uv": [ 14.875, 11, 15, 10.875 ], "texture": "#wooden_bow_pulling_0" },
+				"north": { "uv": [ 3.125, 4.25, 3, 4.625 ], "texture": "#wooden_bow_pulling_0" },
+				"south": { "uv": [ 3.75, 4.625, 3.875, 5 ], "texture": "#wooden_bow_pulling_0" },
+				"west": { "uv": [ 3.875, 4.625, 4, 5 ], "texture": "#wooden_bow_pulling_0" },
+				"east": { "uv": [ 3.875, 4.25, 3.75, 4.625 ], "texture": "#wooden_bow_pulling_0" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, 74, 0 ],
+			"translation":  [ 0, -1.390, 2.0869 ],
+			"scale":  [ 1.2, 1.2, 1.2 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 1.3913, 0 ],
+			"scale":  [ 1.2, 1.2, 1.2 ]
+		},
+		"gui": {
+			"scale":  [ 0.65, 0.65, 1 ]
+		},
+		"ground": {
+			"translation":  [ 0, 9.0434, 0 ],
+			"scale":  [ 1.2, 1.2, 1.2 ]
+		}
+	}
+}
